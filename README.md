@@ -2,6 +2,8 @@
 
 Welcome to the **GitHub for Beginners** practice repository! This repo is designed to help you learn and practice essential GitHub workflows including forking, cloning, branching, committing, pushing, and creating pull requests.
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
+[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners/stargazers)
 ## 📋 What You'll Learn
 
 - ✅ Fork a repository
@@ -28,6 +30,12 @@ git clone https://github.com/your-username/Github-for-beginners.git
 # Navigate to the project directory
 cd Github-for-beginners
 ```
+> 💡 **Tip:** To open the project in VS Code from your terminal, run:
+> 
+> ```bash
+> code .
+> ```
+> Make sure you have the [VS Code command line tool](https://code.visualstudio.com/docs/editor/command-line) installed.
 
 ## 🌿 Branch Practice Exercises
 
@@ -214,6 +222,14 @@ This is a learning repository, and contributions are welcome! If you have sugges
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 🌐 Connect with Me
+
+Follow me on social media for updates and more learning resources:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/thenisals)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nisalgunawardhana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/thenisals)
 
 **Happy Learning! 🎉**
 
