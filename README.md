@@ -2,8 +2,8 @@
 
 Welcome to the **GitHub for Beginners** practice repository! This repo is designed to help you learn and practice essential GitHub workflows including forking, cloning, branching, committing, pushing, and creating pull requests.
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/nisalgunawardhana)
-[![Star this repo](https://img.shields.io/github/stars/your-username/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners/stargazers)
+[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
+[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners/stargazers)
 ## 📋 What You'll Learn
 
 - ✅ Fork a repository
