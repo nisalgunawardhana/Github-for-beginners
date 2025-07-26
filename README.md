@@ -30,6 +30,12 @@ git clone https://github.com/your-username/Github-for-beginners.git
 # Navigate to the project directory
 cd Github-for-beginners
 ```
+> 💡 **Tip:** To open the project in VS Code from your terminal, run:
+> 
+> ```bash
+> code .
+> ```
+> Make sure you have the [VS Code command line tool](https://code.visualstudio.com/docs/editor/command-line) installed.
 
 ## 🌿 Branch Practice Exercises
 
