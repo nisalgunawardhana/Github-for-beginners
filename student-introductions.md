@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Mohomad Fazil]
+- **GitHub Username:** @fazilfareed
+- **Location:** Badulla, Sri Lanka
+- **Background:**  I'm a 3rd-year Computer Science undergraduate at the University of Jaffna.
+- **Learning Goals:**  Improving my coding skills and building real-world projects.     
+- **Fun Fact:** I enjoy solving tech problems and exploring new tools.
+- **Date Added:** July 27, 2025
 
 
