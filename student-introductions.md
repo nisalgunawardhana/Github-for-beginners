@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
+### Jeyaruban Jathushan
 - **GitHub Username:**  @Jathu-26
 - **Location:** Jaffna Srilanka
 - **Background:** Computer Science student
 - **Learning Goals:** 
-- **Fun Fact:** 
+- **Fun Fact:** yy
 - **Date Added:** January 15, 2025
 
 
