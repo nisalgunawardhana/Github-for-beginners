@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Rashmi Tharushika]
+- **GitHub Username:** @RashmiTharu2001
+- **Location:** University Of Jaffna
+- **Background:** Computer Science studnet
+- **Learning Goals:** App development
+- **Fun Fact:** I can solve a Rubik's cube in under 3 minutes!
+- **Date Added:**  july 27, 2025
 
 
