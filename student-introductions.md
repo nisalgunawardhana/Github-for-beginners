@@ -5,12 +5,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ## Example
 
 ### John Doe (Example)
-- **GitHub Username:** @johndoe
-- **Location:** San Francisco, CA
-- **Background:** Computer Science student learning web development
+- **GitHub Username:** @Jasmin
+- **Location:** Jaffna
+- **Background:** Computer Science student in UoJ
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
-- **Date Added:** January 15, 2024
+- **Fun Fact:** I can code within 2 min!
+- **Date Added:** July 27, 2025
 
 ---
 
