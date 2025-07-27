@@ -16,12 +16,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
-
+### [Pasindu Chandrasiri]
+- **GitHub Username:** @pasinduchandrasiri
+- **Location:** Anuradhapura
+- **Background:** 4th year undergraduate student, University of jaffna, Faculty of engineering
+- **Learning Goals:** Become a Software Engineer who use AI enormously in solutions
+- **Fun Fact:** More likeliness with mobile photography
+- **Date Added:** 2025.07.27
