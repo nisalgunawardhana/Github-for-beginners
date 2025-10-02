@@ -28,11 +28,11 @@ The voucher can now be used for **EITHER** the **Foundations exam OR the Copilot
 
 ### ⚠️ **Critical Details:**
 
-- 📅 **Expiration Date:** The 2025-2026 vouchers expire on **June 30, 2026**
-- 🎫 **Usage Limit:** The voucher can be used **1 time only**
-- 📊 **Exam Options:** Voucher is valid for **either** the Foundations Exam **OR** the Copilot Exam. **Not both.**
-- 🏆 **Badge System:** The current exam earns a badge through **Microsoft Learn** NOT a Credly badge
-- ⏰ **Rescheduling Policy:** Be sure to reschedule or cancel exam appointments **at least 24 hours** before your scheduled exam or your fee will be forfeited
+- **Expiration Date:** The 2025-2026 vouchers expire on **June 30, 2026**
+- **Usage Limit:** The voucher can be used **1 time only**
+- **Exam Options:** Voucher is valid for **either** the Foundations Exam **OR** the Copilot Exam. **Not both.**
+- **Badge System:** The current exam earns a badge through **Microsoft Learn** NOT a Credly badge
+- **Rescheduling Policy:** Be sure to reschedule or cancel exam appointments **at least 24 hours** before your scheduled exam or your fee will be forfeited
 
 ### 🔄 **System Changes:**
 GitHub has moved to a different system: **Microsoft Learn and Pearson VUE** to deliver the exams.
@@ -48,7 +48,7 @@ GitHub has moved to a different system: **Microsoft Learn and Pearson VUE** to d
 ### 1. 🏗️ **GitHub Foundations Exam**
 <div align="center">
   
-![GitHub Foundations](https://docs.github.com/assets/cb-28937/mw-1440/images/help/certifications/foundations-badge.webp)
+![GitHub Foundations](https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/kicupcaijp0kyzvg9hm3cf4koq78?sp=r&sv=2024-05-04&se=2025-10-02T09%3A46%3A37Z&sr=b&rscd=inline%3B+filename%3D%22GitHub+Foundations+Badge.png%22%3B+filename*%3DUTF-8%27%27GitHub%2520Foundations%2520Badge.png&rsct=image%2Fpng&sig=zHYu6N00dZMvXGnftbd%2Bk3p8Oh1YGL2oETpbrqpoKmQ%3D)
 
 </div>
 
@@ -60,8 +60,7 @@ GitHub has moved to a different system: **Microsoft Learn and Pearson VUE** to d
 
 ### 2. 🤖 **GitHub Copilot Exam**
 <div align="center">
-  
-![GitHub Copilot](https://docs.github.com/assets/cb-28938/mw-1440/images/help/certifications/copilot-badge.webp)
+![GitHub Copilot](https://learn.github.com/assets/badge-copilot-CXyQbEb_.png)
 
 </div>
 
