@@ -91,22 +91,6 @@ To claim your GitHub certification voucher, visit the official discussion thread
 
 ---
 
-## 🌟 **Connect With Our Community**
-
-<div align="center">
-
-### 👥 Follow for Updates & Tips
-
-[![Follow on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow%20%40nisalgunawardhana&style=for-the-badge&logo=github)](https://github.com/nisalgunawardhana)
-
-[![Star this Repository](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?label=Star%20this%20Repo&style=for-the-badge&logo=github)](https://github.com/nisalgunawardhana/Github-for-beginners)
-
-[![Fork this Repository](https://img.shields.io/github/forks/nisalgunawardhana/Github-for-beginners?label=Fork&style=for-the-badge&logo=github)](https://github.com/nisalgunawardhana/Github-for-beginners/fork)
-
-[![Watch Repository](https://img.shields.io/github/watchers/nisalgunawardhana/Github-for-beginners?label=Watch&style=for-the-badge&logo=github)](https://github.com/nisalgunawardhana/Github-for-beginners/subscription)
-
-</div>
-
 ## 🌐 Connect with Me
 
 Follow me on social media for updates and more learning resources:
