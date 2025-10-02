@@ -44,13 +44,14 @@ GitHub has moved to a different system: **Microsoft Learn and Pearson VUE** to d
 ---
 
 ## 🎯 **Available Certifications**
-
-### 1. 🏗️ **GitHub Foundations Exam**
 <div align="center">
-  
-![GitHub Foundations](https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/kicupcaijp0kyzvg9hm3cf4koq78?sp=r&sv=2024-05-04&se=2025-10-02T09%3A46%3A37Z&sr=b&rscd=inline%3B+filename%3D%22GitHub+Foundations+Badge.png%22%3B+filename*%3DUTF-8%27%27GitHub%2520Foundations%2520Badge.png&rsct=image%2Fpng&sig=zHYu6N00dZMvXGnftbd%2Bk3p8Oh1YGL2oETpbrqpoKmQ%3D)
+
+<img src="https://learn.github.com/assets/badge-copilot-CXyQbEb_.png" alt="GitHub Copilot Badge" width="80" height="80" style="margin: 0 10px;"/>
+<img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/kicupcaijp0kyzvg9hm3cf4koq78?sp=r&sv=2024-05-04&se=2025-10-02T09%3A46%3A37Z&sr=b&rscd=inline%3B+filename%3D%22GitHub+Foundations+Badge.png%22%3B+filename*%3DUTF-8%27%27GitHub%2520Foundations%2520Badge.png&rsct=image%2Fpng&sig=zHYu6N00dZMvXGnftbd%2Bk3p8Oh1YGL2oETpbrqpoKmQ%3D" alt="GitHub Foundations Badge" width="80" height="80" style="margin: 0 10px;"/>
 
 </div>
+
+### 1. 🏗️ **GitHub Foundations Exam**
 
 **Perfect for beginners!** This exam covers:
 - Git and GitHub basics
@@ -59,10 +60,7 @@ GitHub has moved to a different system: **Microsoft Learn and Pearson VUE** to d
 - GitHub features and tools
 
 ### 2. 🤖 **GitHub Copilot Exam**
-<div align="center">
-![GitHub Copilot](https://learn.github.com/assets/badge-copilot-CXyQbEb_.png)
 
-</div>
 
 **For AI-powered development!** This exam covers:
 - GitHub Copilot fundamentals
