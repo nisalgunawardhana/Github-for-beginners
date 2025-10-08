@@ -1,12 +1,12 @@
-# Student Opportunities - GitHub Certifications
+# GitHub Student Certification Voucher
 
 <div align="center">
   
 ![GitHub Student Developer Pack](../images/exam.png)
 
-## GitHub Certification Vouchers for Students
+## GitHub Certification Vouchers for Students: Foundations or Copilot
 
-**Updated: September 30, 2025**
+**Updated: October 8, 2025**
 
 [![Follow @nisalgunawardhana](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
 [![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners)
@@ -15,12 +15,9 @@
 
 ---
 
-## **GitHub Student Vouchers Available Now**
+## **Overview**
 
-The student voucher for GitHub certifications has returned to the **Student Developer Pack** as of **Tuesday, September 30, at 1:00 PM EST**. This year's offering has been expanded from the previous year's program.
-
-### **New Features This Year**
-The voucher can now be used for **either** the **Foundations Exam** or the **Copilot Exam**, providing greater flexibility in your certification path.
+This document explains how verified students can request and use the GitHub certification voucher included in the Student Developer Pack. The voucher is valid for one exam attempt and can be applied to either the Foundations Exam or the Copilot Exam.
 
 ---
 
@@ -54,48 +51,43 @@ GitHub has transitioned to **Microsoft Learn** and **Pearson VUE** for exam deli
 
 </div>
 
-### **GitHub Foundations Exam**
+---
 
-Recommended for developers new to GitHub. This certification validates knowledge in:
-- Git version control fundamentals
-- GitHub repository management
-- Collaborative development workflows
-- GitHub platform features and tools
+## **How to Request a Voucher**
 
-### **GitHub Copilot Exam**
+### **Request Process**
 
-Designed for developers interested in AI-assisted programming. This certification covers:
-- GitHub Copilot core functionality
-- AI-powered code generation techniques
-- Best practices for AI pair programming
-- Productivity optimization strategies
+1. **Verify Student Status:** Ensure your GitHub account has verified student status. For guidance, visit the [student verification discussion](https://github.com/orgs/community/discussions/156395)
+2. **Access Student Developer Pack:** Visit the [Student Developer Pack page](https://education.github.com/pack)
+3. **Locate Certification Offer:** Find the Certification offer tile and follow the link to request your code
+4. **Follow Instructions:** Complete the on-screen steps to receive your voucher code
+
+**Note:** Your student status must be verified before requesting a certification voucher.
 
 ---
 
-## **How to Claim Your Voucher**
+## **Visual Reference**
 
-<div align="center" style="margin: 30px 0;">
+<div align="center">
   
-### **Ready to Get Started?**
+![Student Developer Pack](../images/1.png)
+*Student Developer Pack Page*
 
-<a href="https://github.com/orgs/community/discussions/165477#discussion-8556274" target="_blank">
-  <img src="https://img.shields.io/badge/CLAIM%20YOUR%20VOUCHER-28a745?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Claim Your GitHub Certification Voucher" />
-</a>
+![Request Voucher](../images/2.png)
+*Certification Voucher Request*
 
-*Click the button above to access the official voucher claim process*
-
+![Voucher Process](../images/3.png)
+*Voucher Code Acquisition*
+  
 </div>
 
-### **Claim Process**
+## **Scheduling and Taking an Exam**
 
-1. **Visit the Official Thread:** Access the GitHub Community discussion using the button above
-2. **Review Eligibility:** Ensure you meet all student verification requirements
-3. **Follow Instructions:** Complete the voucher request process as outlined
-4. **Read Guidelines:** Review all terms and conditions before submitting your claim
-
-**Important:** Make sure to read all guidelines thoroughly before submitting your voucher claim to ensure a smooth process.
-
----
+1. **Access GitHub Learn:** Visit GitHub Learn and open the Credentials section
+2. **Choose Exam:** Select either the Foundations or Copilot exam
+3. **Schedule Exam:** Click "Schedule Now" to begin the scheduling process
+4. **Review Materials:** Review available learning paths and resources on Microsoft Learn
+5. **Apply Voucher:** Enter your voucher code when prompted during payment
 
 ## **Preparation Resources**
 
@@ -106,31 +98,35 @@ Designed for developers interested in AI-assisted programming. This certificatio
 ### **Additional Resources**
 - [GitHub Skills](https://skills.github.com/) - Interactive tutorials
 - [GitHub Docs](https://docs.github.com/) - Comprehensive documentation
-- [GitHub Community Discussions](https://github.com/orgs/community/discussions) - Peer support
 
 ---
 
-## **Success Guidelines**
+## **Certification Details**
 
-### **Exam Selection**
-Choose the certification that aligns with your current experience level and career objectives.
+### **GitHub Foundations Exam**
+Validates foundational knowledge in:
+- Git version control fundamentals
+- GitHub repository management
+- Collaborative development workflows
+- GitHub platform features
 
-### **Timeline Management**
-- Plan your study schedule well in advance
-- Remember: vouchers expire on June 30, 2026
-- Allow sufficient preparation time before scheduling
+### **GitHub Copilot Exam**
+Certifies skills in:
+- GitHub Copilot functionality
+- AI-assisted code generation
+- Best practices for AI pair programming
+- Developer productivity optimization
 
-### **Scheduling Best Practices**
-- Schedule your exam only when fully prepared
-- Remember the 24-hour cancellation policy
-- Consider your peak performance times when booking
-
-### **Study Strategy**
-- Utilize all official Microsoft Learn resources
-- Practice with hands-on exercises
-- Engage with community discussions for additional support
+### **Important Reminders**
+- Voucher expiration: June 30, 2026
+- Reschedule at least 24 hours in advance to avoid forfeiting your voucher
+- Select the certification that best aligns with your career goals
 
 ---
+
+## **Additional Information**
+
+For more details about the GitHub certification program, scheduling process, and any updates to the certification system, refer to the [GitHub Community Discussion](https://github.com/orgs/community/discussions/165477).
 
 ## **Connect & Follow**
 
@@ -140,7 +136,7 @@ Stay updated with the latest GitHub education content and certification announce
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/thenisals)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nisalgunawardhana)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/thenisals)
+[![GitHub Education](https://img.shields.io/badge/GitHub%20Education-181717?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com)
 
 </div>
 
@@ -148,7 +144,7 @@ Stay updated with the latest GitHub education content and certification announce
 
 ## **Disclaimer**
 
-This information is based on the GitHub Student Developer Pack announcement dated September 30, 2025. Program details are subject to change. Please refer to the official GitHub Education website and Microsoft Learn platform for the most current and authoritative information.
+Information provided is based on the GitHub Student Developer Pack program as of October 8, 2025. Program details may change. Always refer to official GitHub Education and Microsoft Learn resources for the most current information.
 
 ---
 
@@ -156,9 +152,6 @@ This information is based on the GitHub Student Developer Pack announcement date
 
 **Best of luck with your GitHub certification journey!**
 
-*Document last updated: September 30, 2025*
-
-[![GitHub Education](https://img.shields.io/badge/GitHub%20Education-181717?style=flat&logo=github&logoColor=white)](https://education.github.com)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com)
+*Document last updated: October 8, 2025*
 
 </div>
