@@ -59,27 +59,22 @@ GitHub has transitioned to **Microsoft Learn** and **Pearson VUE** for exam deli
 
 1. **Verify Student Status:** Ensure your GitHub account has verified student status. For guidance, visit the [student verification discussion](https://github.com/orgs/community/discussions/156395)
 2. **Access Student Developer Pack:** Visit the [Student Developer Pack page](https://education.github.com/pack)
-3. **Locate Certification Offer:** Find the Certification offer tile and follow the link to request your code
-4. **Follow Instructions:** Complete the on-screen steps to receive your voucher code
 
-**Note:** Your student status must be verified before requesting a certification voucher.
-
----
-
-## **Visual Reference**
-
-<div align="center">
-  
 ![Student Developer Pack](../images/1.png)
 *Student Developer Pack Page*
+
+3. **Locate Certification Offer:** Find the Certification offer tile and follow the link to request your code
 
 ![Request Voucher](../images/2.png)
 *Certification Voucher Request*
 
 ![Voucher Process](../images/3.png)
-*Voucher Code Acquisition*
   
-</div>
+
+4. **Follow Instructions:** Complete the on-screen steps to receive your voucher code
+
+**Note:** Your student status must be verified before requesting a certification voucher.
+
 
 ## **Scheduling and Taking an Exam**
 
