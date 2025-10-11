@@ -5,7 +5,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ## Example
 
 ### John Doe (Example)
-- **GitHub Username:** @jacob
+- **GitHub Username:** @rohan
 - **Location:** no country, 
 - **Background:** Computer Science student learning web development
 - **Learning Goals:** Master Git workflows and collaborative development
