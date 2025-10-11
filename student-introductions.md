@@ -10,7 +10,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** Computer Science student learning web development
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 365 days !
-- **Date Added:** January 15, 2025
+- **Date Added:** January 05, 2025
 
 ---
 
