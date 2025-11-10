@@ -25,3 +25,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Nimasha Savindi
+- **GitHub Username:** @NimashaSavindi
+- **Location:** Kandy,SriLanka
+- **Background:** Computer Science student learning web development
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** November 10 2025
+
