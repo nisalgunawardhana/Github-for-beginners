@@ -10,16 +10,12 @@ assignees: ''
 ## 👤 Student Information
 - **Name:** [Your Full Name]
 - **GitHub Username:** @[yourusername]
-- **Date Started:** [When you started the exercises]
-- **Date Completed:** [When you finished]
+- **Email Address:** [yourname@mail.com]
+- **T-shirt Size:** [Xs,S,M,L,XL,XXL]
 
-## 🔗 Submission Links
-Please provide links to your pull requests:
 
-- **Your Fork:** https://github.com/[yourusername]/Github-for-beginners
 - **Pull Request #1:** [Link to your first PR]
 - **Pull Request #2:** [Link to your second PR, if applicable]
-- **Additional PRs:** [Link to any other PRs you created]
 
 ---
 

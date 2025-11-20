@@ -1,6 +1,10 @@
-# 🚀 GitHub Workflow Practice Repository
+# 🚀 GitHub 101 - GitHub For Beginners
 
 Welcome to the **GitHub for Beginners** practice repository! This repo is designed to help you learn and practice essential GitHub workflows including forking, cloning, branching, committing, pushing, and creating pull requests.
+
+<p align="center">
+    <img src="images/banner.png" alt="GitHub for Beginners banner" />
+</p>
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
 [![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners/stargazers)
@@ -37,7 +41,7 @@ cd Github-for-beginners
 > ```
 > Make sure you have the [VS Code command line tool](https://code.visualstudio.com/docs/editor/command-line) installed.
 
-## 🌿 Branch Practice Exercises
+## Branch Practice Exercises
 
 ### Exercise 1: Create Your First Branch
 ```bash
