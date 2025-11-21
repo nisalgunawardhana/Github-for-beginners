@@ -16,7 +16,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [ladipo Sanni]
+### [Ladipo Sanni]
 - **GitHub Username:** @LadipoSanni
 - **Location:** Surulere Lagos, Nigeria
 - **Background:** Cloud/DevOps Endgineer proffessional mastering GitOps.
