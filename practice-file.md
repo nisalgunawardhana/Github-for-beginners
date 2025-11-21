@@ -39,10 +39,10 @@ This file is designed for you to practice making changes, commits, and pull requ
 ## ✏️ Your Practice Section
 
 **Instructions:** Add your own content below. You can:
-- Add your favorite programming language
-- Share a coding tip
-- Write about a project you're working on
-- Add resources you find helpful
+- My favorite programming Language is Java.
+- Parameterise your variables for security and reusability.
+- I am building a payment wallet for developers and Info-Tech enthusiasts
+- go to w3schools.com for extensive coding practice and large catalogue of programming language education curated for anyone.
 
 ### Example Entry
 **Added by:** John Doe  
