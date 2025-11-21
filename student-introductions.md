@@ -16,12 +16,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
+### [ladipo Sanni]
+- **GitHub Username:** @LadipoSanni
+- **Location:** Surulere Lagos, Nigeria
+- **Background:** Cloud/DevOps Endgineer proffessional mastering GitOps.
+- **Learning Goals:** Master GitOps and collaborative development and deployment using Github 
+- **Fun Fact:** I a fashion genius!
+- **Date Added:** November 21, 2025
 
