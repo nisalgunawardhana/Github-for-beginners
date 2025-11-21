@@ -22,6 +22,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** Cloud/DevOps Endgineer proffessional mastering GitOps.
 - **Learning Goals:** Master GitOps and collaborative development and deployment using Github 
 
-- **Fun Fact:** I a fashion genius. I can make all kinds of clothing!
+- **Fun Fact:** I am fashion genius. I can make all kinds of Outfit!
 - **Date Added:** November 21, 2025
 
