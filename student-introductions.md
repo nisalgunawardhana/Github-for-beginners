@@ -21,6 +21,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Surulere Lagos, Nigeria
 - **Background:** Cloud/DevOps Endgineer proffessional mastering GitOps.
 - **Learning Goals:** Master GitOps and collaborative development and deployment using Github 
-- **Fun Fact:** I a fashion genius!
+- **Fun Fact:** I a fashion genius. I can Sew anything!
 - **Date Added:** November 21, 2025
 
