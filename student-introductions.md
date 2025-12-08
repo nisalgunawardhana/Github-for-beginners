@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Marie Dinh
+- **GitHub Username:** @Marie-Dinh
+- **Location:** Orsay, France
+- **Background:** Computer science and electronic student
+- **Learning Goals:** Max of knowledge in computer science
+- **Fun Fact:** I play guitar !
+- **Date Added:** December 8, 2025
 
 
