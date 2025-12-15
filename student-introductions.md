@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Sasini Hansani
+- **GitHub Username:** @sasinihansani
+- **Location:** Hungama
+- **Background:** IT undergraduate in University of Moratuwa
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** December 15, 2025
 
