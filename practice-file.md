@@ -122,6 +122,8 @@ console.log(greetLearner("Chalana"));
 # Your Python code here
 def practice_git(student_name):
     return f"Great job practicing Git, {student_name}!"
+
+print(practice_git("Chalana"))
 ```
 
 ### HTML
@@ -129,6 +131,7 @@ def practice_git(student_name):
 <!-- Your HTML code here -->
 <div class="git-practice">
     <h1>Learning Git is Fun!</h1>
+    <p>Practicing Git and GitHub by Chalana</p>
 </div>
 ```
 
