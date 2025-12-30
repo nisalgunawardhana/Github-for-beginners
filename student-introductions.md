@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Chalana Dilshan]
+- **GitHub Username:** @ChalanaDilshan
+- **Location:** Tangalle,Srilanka
+- **Background:** Undergraduate Student at South Eastern University of Srilanka
+- **Learning Goals:** Learn Git and GitHub, improve coding skills, and build projects to gain practical experience.
+- **Fun Fact:** Enjoys learning new technologies and solving logical problems
+- **Date Added:** 30/12/2025
 
 
