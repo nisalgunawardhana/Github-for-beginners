@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Kaindu Chamod]
+- **GitHub Username:** @Dev-Kavindu
+- **Location:** Anuradhapura
+- **Background:** Beginner software developer learning Git & GitHub to build a strong foundation in the IT field.
+- **Learning Goals:** Improve coding skills, understand version control, and grow into a software / AI-ML engineer.
+- **Fun Fact:**  I treat every GitHub commit as a small step toward becoming better than yesterday 🚀
+- **Date Added:** 30/12/2025 
 
 
