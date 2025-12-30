@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Hiruni Ashinshani Bandara
+- **GitHub Username:** @Ashinshani
+- **Location:** Central Province, Kandy
+- **Background:** Data Science student learning Machine Learning, Artificial Intelligence and Data Analytics
+- **Learning Goals:** Master Git workflows and collaborative development and contribute for real world AI and ML projects 
+- **Fun Fact:** I can work with my teammates without get angry and I can actively perform! 
+- **Date Added:** December 30th 2025
 
 
