@@ -121,7 +121,13 @@ console.log(greetLearner("Chamika"));
 ```python
 # Your Python code here
 def practice_git(student_name):
-    return f"Great job practicing Git, {student_name}!"
+    if not student_name:
+        return "Great job practicing Git!"
+    return f"Great job practicing Git, {student_name}! Keep up the good work."
+
+print(practice_git("Chamika"))
+print(practice_git(""))
+
 ```
 
 ### HTML
@@ -129,6 +135,7 @@ def practice_git(student_name):
 <!-- Your HTML code here -->
 <div class="git-practice">
     <h1>Learning Git is Fun!</h1>
+     <p>Practice creating branches, making commits, and collaborating on GitHub.</p>
 </div>
 ```
 
