@@ -163,7 +163,7 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Your tip here:** Commit small changes frequently to keep history clean
 
 ---
 
