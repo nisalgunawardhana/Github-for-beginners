@@ -168,6 +168,7 @@ Share your Git tips here:
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
 4. **Your tip here:** Pull the latest changes (`git pull`) before starting new work to avoid conflicts
+5. **Your tip here:** Commit small and related changes often to keep your project history clean and easy to understand
 
 ---
 
