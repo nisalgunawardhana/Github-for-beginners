@@ -113,6 +113,8 @@ Feel free to add code snippets in different languages:
 function greetLearner(name) {
     return `Hello ${name}, keep learning Git!`;
 }
+
+console.log(greetLearner("Chalana"));
 ```
 
 ### Python
@@ -168,4 +170,4 @@ Share your Git tips here:
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
-**Last updated:** [Add date when you modify this file]
+**Last updated:** [30/12/2025]
