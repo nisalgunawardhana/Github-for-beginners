@@ -16,12 +16,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
-
+### [Ayomal Kaushalya]
+- **GitHub Username:** @ayomalbanneka
+- **Location:** Anuradhapura, Sri Lanka
+- **Background:** Software Engineering student learning to DevOps engineer
+- **Learning Goals:** Master DevOps tools and practices to enhance my software development skills.
+- **Fun Fact:** I once automated my entire morning routine with Python!😁
+- **Date Added:** December 30, 2025
