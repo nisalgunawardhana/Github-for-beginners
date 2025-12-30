@@ -61,6 +61,10 @@ This file is designed for you to practice making changes, commits, and pull requ
 ## GitHub Learning Experience
 
 This section was added as part of the intermediate GitHub practice exercises.
+- Learned how to use branches and pull requests
+git add practice-file.md
+git commit -m "Expand learning experience section"
+
 
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
