@@ -17,11 +17,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+- **GitHub Username:** @himandhi
+- **Location:** Colombo-09
+- **Background:** Software Engineering student learning Full-stack web development
+- **Learning Goals:** Build strong technical skills and become confident in applying what I learn to real-world projects.
+- **Fun Fact:** I can solve mathematical & logic gate problems really fast!
+- **Date Added:** 30/12/2025
 
 
