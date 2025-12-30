@@ -54,9 +54,9 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
-**Topic:** [Your Topic]  
-**Content:** [Your content here]
+**Added by:** Chamika Lakshan 
+**Topic:**  GitHub Collaborative Workflow
+**Content:** Learning GitHub workflows has helped me understand how to collaborate effectively in team-based projects using branches, commits, pull requests, and issue tracking.
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
@@ -162,7 +162,7 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Your tip here:** Pull the latest changes from main before starting new work to avoid merge conflicts
 
 ---
 
