@@ -163,10 +163,10 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** Commit small changes frequently to keep history clean
+4. **Your tip here:** [Add your own tip]
 
 ---
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
-**Last updated:** 2025-12-30
+**Last updated:** [Add date when you modify this file]
