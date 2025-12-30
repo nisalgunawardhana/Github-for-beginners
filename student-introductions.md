@@ -23,5 +23,5 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Colombo
 - **Background:** University Student
 - **Learning Goals:** Git and GitHub
-- **Fun Fact:** Tall
+- **Fun Fact:** Tall and funny
 - **Date Added:** 2025-12-30
