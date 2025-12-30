@@ -16,6 +16,16 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
+### Reezma
+- **GitHub Username:** @HANAN
+- **Location:** 
+- **Background:** Learning GitHub workflows and version control
+- **Learning Goals:** Master Git commands, branching strategies, and collaborative development practices
+- **Fun Fact:** Currently exploring the world of open source contributions!
+- **Date Added:** December 30, 2025
+
+---
+
 ### [Your Name Here]
 - **GitHub Username:** @yourusername
 - **Location:** 
