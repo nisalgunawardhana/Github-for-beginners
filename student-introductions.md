@@ -16,12 +16,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
+### Hasitha Sandakelum
+- **GitHub Username:** @dev-sandakelum
+- **Location:** Gampaha, Sri Lanka
+- **Background:** ICT student at University of Ruhuna, passionate about web development and programming.
+- **Learning Goals:** Improve skills in Next.js, TypeScript, Three.js, and full-stack development.
+- **Fun Fact:** Loves building creative projects, from web apps to small games, and enjoys exploring AI-assisted programming tools.
+- **Date Added:** 2025-12-30
 
