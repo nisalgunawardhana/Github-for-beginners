@@ -54,9 +54,10 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
-**Topic:** [Your Topic]  
-**Content:** [Your content here]
+**Added by:** Kavindu Chamod  
+**Topic:** Full Stack Web Development  
+**Content:** I am an undergraduate Computer Science student interested in software development.  
+I enjoy building web applications using HTML, CSS, JavaScript, Node.js, and learning modern frameworks like React and Flutter.
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
@@ -162,10 +163,10 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Your tip here:** Commit small changes frequently to keep history clean
 
 ---
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
-**Last updated:** [Add date when you modify this file]
+**Last updated:** 2025-12-30
