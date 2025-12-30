@@ -149,15 +149,15 @@ def practice_git(student_name):
 Document the commands you've learned:
 
 **Commands I've mastered:**
-- [ ] `git clone`
-- [ ] `git branch`
-- [ ] `git checkout`
-- [ ] `git add`
-- [ ] `git commit`
-- [ ] `git push`
+- [x] `git clone`
+- [x] `git branch`
+- [x] `git checkout`
+- [x] `git add`
+- [x] `git commit`
+- [x] `git push`
 - [ ] `git pull`
-- [ ] `git status`
-- [ ] `git log`
+- [x] `git status`
+- [x] `git log`
 
 **Commands I want to learn:**
 - [ ] `git rebase`
@@ -174,10 +174,11 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Tip:** Create feature branches for each new feature or bug fix
+5. **Tip:** Push your changes frequently to avoid losing work
 
 ---
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
-**Last updated:** [Add date when you modify this file]
+**Last updated:** December 30, 2025
