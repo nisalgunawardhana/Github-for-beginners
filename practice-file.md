@@ -172,7 +172,7 @@ Share your Git tips here:
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
 4. **Your tip here:** Pull the latest changes from main before starting new work to avoid merge conflicts
-
+5. **Tip:** Review your changes with git diff before committing to catch mistakes early
 ---
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
