@@ -34,6 +34,13 @@ This file is designed for you to practice making changes, commits, and pull requ
 - Cloud platforms (AWS, Azure, GCP)
 - API design and development
 
+### Machine Learning & AI
+- Python for data science
+- TensorFlow and PyTorch
+- Natural Language Processing
+- Computer Vision fundamentals
+- Model deployment strategies
+
 ---
 
 ## ✏️ Your Practice Section
