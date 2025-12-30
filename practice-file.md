@@ -54,9 +54,14 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
+**Added by:** Himali Wimansa  
 **Topic:** [Your Topic]  
 **Content:** [Your content here]
+
+## GitHub Learning Experience
+
+This section was added as part of the intermediate GitHub practice exercises.
+
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
