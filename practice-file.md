@@ -54,6 +54,11 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
+**Added by:** Reezma  
+**Topic:** Git Version Control Best Practices  
+**Content:** Version control is essential for modern software development. Using meaningful commit messages, creating feature branches, and regularly pushing changes helps maintain a clean project history and enables better collaboration with team members.
+
+### My Contribution
 **Added by:** [Your Name]  
 **Topic:** [Your Topic]  
 **Content:** [Your content here]
