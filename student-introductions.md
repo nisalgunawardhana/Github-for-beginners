@@ -17,8 +17,8 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### Reezma
-- **GitHub Username:** @HANAN
-- **Location:** 
+- **GitHub Username:** @reezmahanan
+- **Location:** Batticaloa, Sri Lanka
 - **Background:** Learning GitHub workflows and version control
 - **Learning Goals:** Master Git commands, branching strategies, and collaborative development practices
 - **Fun Fact:** Currently exploring the world of open source contributions!
