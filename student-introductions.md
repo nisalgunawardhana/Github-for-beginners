@@ -20,8 +20,14 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **GitHub Username:** @kavi-X-Debug
 - **Location:** Matara
 - **Background:** Student at University of Ruhuna
+<<<<<<< HEAD
 - **Learning Goals:** To be a game changer
 - **Fun Fact:** Money is your goal
 - **Date Added:** 30 Dec 2025
+=======
+- **Learning Goals:** to be a Software Engineer
+- **Fun Fact:** I can run from matara to colombo within a minute
+- **Date Added:** December 30 2025
+>>>>>>> 141156990118d4a8c38d329860742b4e18d00ca7
 
 
