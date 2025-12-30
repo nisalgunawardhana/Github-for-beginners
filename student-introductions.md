@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Chamika Lakshan
+- **GitHub Username:** @lakshanchamika
+- **Location:** Matara, Sri lanka 
+- **Background:** BICT Student at South Eastern University of Sri Lanka
+- **Learning Goals:** Master Git workflows and best practices for team-based software development
+- **Fun Fact:** I enjoy playing the violin and working on creative tech projects
+- **Date Added:** December 30, 2025
 
 
