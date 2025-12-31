@@ -17,11 +17,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+- **GitHub Username:** @pathumzcode
+- **Location:** 146/4, Horahena Road, Waboda west, Waboda.
+- **Background:** I am an Information Technology student at SLIIT University.
+- **Learning Goals:** Work with modern tools and technologies used in the IT industry
+- **Fun Fact:** I can debug problems better after a cup of tea or coffee.
+- **Date Added:** Wednesday, December 31, 2025
+
 
 
