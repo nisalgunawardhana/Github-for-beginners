@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Thisuni Hewage
+- **GitHub Username:** IT2412868
+- **Location:** Kandy 
+- **Background:** Software Engineering Undergraduate
+- **Learning Goals:** Lear how Git is working in collabarative work environment 
+- **Fun Fact:** I can read a book with 300+ pages in one day 
+- **Date Added:** December 31, 2025
 
 
