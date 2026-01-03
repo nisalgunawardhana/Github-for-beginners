@@ -34,6 +34,17 @@ jobs:
               labels: ['submission']
             });
       
+      - name: Add submission tracking comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'Submission Tracking Issue Created! 📋\n\nYour badge submission is being tracked.\n\n**Status:** Pending Review ⏳\n**Assigned to:** @nisalgunawardhana\n**Expected Review Time:** 2-5 days\n\n✅ **Next Steps:**\n\n- Ensure your PR is linked above\n- Verify all evidence is in the PR\n- Wait for review and feedback\n- We\'ll notify you as soon as the review is complete! 🚀'
+            });
+      
       - name: Extract PR link and check status
         id: check-pr
         uses: actions/github-script@v7
