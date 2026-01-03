@@ -117,7 +117,7 @@ git push origin feature/your-name-introduction
    - Bug Report
    - Feature Request
    - Question
-   - Submission Review
+   - Submission 
 
 ### Issue Best Practices
 - Use descriptive titles
@@ -180,7 +180,7 @@ git fetch upstream
 When you complete the exercises:
 
 1. **Move to the main repository (original one)** by switching your remote to the upstream/main repo if needed.
-2. **Create an issue on that branch** using the "Submission Review" template.
+2. **Create an issue on that branch** using the "Submission" template.
 3. **Include the following information:**
     - Your GitHub username
     - Links to your pull requests

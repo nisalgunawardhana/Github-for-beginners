@@ -1,0 +1,111 @@
+name: GitHub Issue Submission Handler
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  handle-issue-submission:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: read
+    
+    steps:
+      - name: Assign issue to reviewer
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addAssignees({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              assignees: ['nisalgunawardhana']
+            });
+      
+      - name: Add labels to issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['pending-review', 'submission']
+            });
+      
+      - name: Extract PR link and check status
+        id: check-pr
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const body = issue.body || '';
+            
+            // Extract PR link from issue body
+            const prLinkRegex = /https:\/\/github\.com\/[\w-]+\/[\w-]+\/pull\/(\d+)/g;
+            const prLinks = body.match(prLinkRegex);
+            
+            if (prLinks && prLinks.length > 0) {
+              core.setOutput('has_pr_link', 'true');
+              core.setOutput('pr_links', prLinks.join(','));
+              
+              // Check if PR is open or closed
+              const prUrlParts = prLinks[0].split('/');
+              const prNumber = prUrlParts[prUrlParts.length - 1];
+              
+              try {
+                const pr = await github.rest.pulls.get({
+                  owner: prUrlParts[3],
+                  repo: prUrlParts[4],
+                  pull_number: prNumber
+                });
+                
+                if (pr.data.state === 'closed') {
+                  core.setOutput('pr_closed', 'true');
+                } else {
+                  core.setOutput('pr_closed', 'false');
+                }
+              } catch (error) {
+                console.log('Could not fetch PR details');
+                core.setOutput('pr_closed', 'unknown');
+              }
+            } else {
+              core.setOutput('has_pr_link', 'false');
+            }
+      
+      - name: Add review in progress comment
+        if: steps.check-pr.outputs.has_pr_link == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '👀 This submission is under review by @nisalgunawardhana\n\nPlease ensure you include a link to your Pull Request in the issue description.\n\nFollow me for more updates - https://github.com/nisalgunawardhana'
+            });
+      
+      - name: Add PR closed warning comment
+        if: steps.check-pr.outputs.pr_closed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '⚠️ **PR Status Alert**\n\nThe Pull Request linked in this issue appears to be **closed**. Please reopen your PR or provide a link to an active Pull Request.\n\n🔗 Once you have an open PR, please update this issue with the correct link.\n\nFollow me on GitHub - https://github.com/nisalgunawardhana'
+            });
+      
+      - name: Add review in progress comment with PR
+        if: steps.check-pr.outputs.has_pr_link == 'true' && steps.check-pr.outputs.pr_closed == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '✅ PR link found and verified as open!\n\n🔍 This submission is now under review by @nisalgunawardhana\n\nFollow me for more updates - https://github.com/nisalgunawardhana'
+            });

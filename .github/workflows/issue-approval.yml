@@ -1,0 +1,80 @@
+name: Issue Completion Badge Assignment
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  assign-completion-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    
+    steps:
+      - name: Check if closer is reviewer
+        id: verify-reviewer
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const closedBy = context.payload.sender.login;
+            
+            // Only allow nisalgunawardhana to close and assign badge
+            if (closedBy === 'nisalgunawardhana') {
+              core.setOutput('is_reviewer', 'true');
+            } else {
+              core.setOutput('is_reviewer', 'false');
+            }
+      
+      - name: Extract issue creator username
+        id: get-username
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const creator = issue.user.login;
+            core.setOutput('issue_creator', creator);
+      
+      - name: Add completion badge comment
+        if: steps.verify-reviewer.outputs.is_reviewer == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const creator = '${{ steps.get-username.outputs.issue_creator }}';
+            const badgeComment = `Hey @${creator} ! 👋
+Your issue has been closed — that means you've successfully completed the GitHub for Beginners task! 
+
+🏅 You can now claim your completion badge here
+
+![Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/completion-badge.png)
+
+Follow me on GitHub - https://github.com/nisalgunawardhana
+
+Great job, and thank you for contributing! Keep learning and exploring.`;
+            
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: badgeComment
+            });
+      
+      - name: Prevent non-reviewer closure
+        if: steps.verify-reviewer.outputs.is_reviewer == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Reopen the issue if closed by someone other than the reviewer
+            github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'open'
+            });
+            
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '⚠️ Only @nisalgunawardhana can close and approve issues for completion badge assignment. Issue has been reopened.'
+            });
