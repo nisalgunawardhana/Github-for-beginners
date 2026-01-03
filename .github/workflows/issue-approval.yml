@@ -41,22 +41,25 @@ jobs:
         with:
           script: |
             const creator = '${{ steps.get-username.outputs.issue_creator }}';
-            const badgeComment = `Hey @${creator} ! 👋
-Your issue has been closed — that means you've successfully completed the GitHub for Beginners task! 
-
-🏅 You can now claim your completion badge here
-
-![Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png)
-
-Follow me on GitHub - https://github.com/nisalgunawardhana
-
-Great job, and thank you for contributing! Keep learning and exploring.`;
+            const badgeComment = `Hey @${creator} ! 👋\nYour issue has been closed — that means you've successfully completed the GitHub for Beginners task!\n\n🏅 You can now claim your completion badge here\n\n![Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png)\n\nFollow me on GitHub - https://github.com/nisalgunawardhana\n\nGreat job, and thank you for contributing! Keep learning and exploring.`;
             
             github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
               body: badgeComment
+            });
+      
+      - name: Add reviewed and badge-assigned labels
+        if: steps.verify-reviewer.outputs.is_reviewer == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['reviewed', 'badge-assigned']
             });
       
       - name: Prevent non-reviewer closure
