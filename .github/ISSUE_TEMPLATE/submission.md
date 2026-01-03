@@ -1,5 +1,5 @@
 ---
-name: GitHub for Beginners Submission
+name: Submission
 about: Submit your GitHub for Beginners task completion
 title: "[SUBMISSION] Your Task Name Here"
 labels: submission
