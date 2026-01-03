@@ -2,8 +2,8 @@
 name: Submission Review
 about: Submit your completed practice exercises for review
 title: '[SUBMISSION] Practice Exercises Complete - [Your Name]'
-labels: 'submission, under review'
-assignees: ''
+labels: 'submission'
+assignees: '@nisalgunawardhana'
 
 ---
 
