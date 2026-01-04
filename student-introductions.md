@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Maleesha Dilshan
+- **GitHub Username:** @Maleeshadil
+- **Location:** Ratnpura,Srilanka
+- **Background:** Software engineering student focused on learning web development.
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** January 04, 2026
+
 
