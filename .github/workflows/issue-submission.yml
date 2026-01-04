@@ -49,7 +49,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              labels: ['submission']
+              labels: ['submission','Pending Review']
             });
       
       - name: Add submission tracking comment
