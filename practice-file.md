@@ -14,6 +14,7 @@ This file is designed for you to practice making changes, commits, and pull requ
 ## 🚀 Coding Topics to Explore
 
 ### Web Development
+
 - HTML & CSS fundamentals
 - JavaScript ES6+ features
 - React.js components and hooks
@@ -21,6 +22,7 @@ This file is designed for you to practice making changes, commits, and pull requ
 - Database design and SQL
 
 ### Programming Languages
+
 - Python for beginners
 - Java object-oriented programming
 - C++ data structures
@@ -28,6 +30,7 @@ This file is designed for you to practice making changes, commits, and pull requ
 - Rust for system programming
 
 ### Tools & Technologies
+
 - Git version control
 - Docker containerization
 - CI/CD pipelines
@@ -39,12 +42,14 @@ This file is designed for you to practice making changes, commits, and pull requ
 ## ✏️ Your Practice Section
 
 **Instructions:** Add your own content below. You can:
+
 - Add your favorite programming language
 - Share a coding tip
 - Write about a project you're working on
 - Add resources you find helpful
 
 ### Example Entry
+
 **Added by:** John Doe  
 **Topic:** JavaScript Async/Await  
 **Content:** Learning async/await has made handling asynchronous operations much cleaner than using callbacks or promises alone.
@@ -70,22 +75,27 @@ I also focus on proper validation, error handling, and writing meaningful Git co
 Try these Git challenges while working on this file:
 
 ### Challenge 1: Multiple Commits
+
 - Make 3 separate commits for 3 different additions
 - Each commit should have a descriptive message
 
 ### Challenge 2: Branch Naming
+
 - Create branches with meaningful names like:
   - `feature/add-python-section`
   - `update/improve-readme`
   - `fix/typo-correction`
 
 ### Challenge 3: Commit Message Practice
+
 Good commit messages:
+
 - `Add section about React hooks`
 - `Fix typo in JavaScript section`
 - `Update resources with new learning materials`
 
 Bad commit messages:
+
 - `changes`
 - `update`
 - `fix`
@@ -97,7 +107,7 @@ Bad commit messages:
 Keep track of your practice:
 
 - [ ] Created your first branch
-- [ ] Made your first commit  
+- [ ] Made your first commit
 - [ ] Added content to this file
 - [ ] Used `git status` command
 - [ ] Used `git log` command
@@ -111,14 +121,16 @@ Keep track of your practice:
 Feel free to add code snippets in different languages:
 
 ### JavaScript
+
 ```javascript
 // Your JavaScript code here
 function greetLearner(name) {
-    return `Hello ${name}, keep learning Git!`;
+  return `Hello ${name}, keep learning Git!`;
 }
 ```
 
 ### Python
+
 ```python
 # Your Python code here
 def practice_git(student_name):
@@ -126,11 +138,30 @@ def practice_git(student_name):
 ```
 
 ### HTML
+
 ```html
 <!-- Your HTML code here -->
 <div class="git-practice">
-    <h1>Learning Git is Fun!</h1>
+  <h1>Learning Git is Fun!</h1>
 </div>
+```
+
+### Node Js
+
+```javascript
+import express from "express";
+
+const app = express();
+app.use(express.json());
+
+app.get("/api/health", (req, res) => {
+  res.status(200).json({
+    status: "OK",
+    message: "API is running successfully",
+  });
+});
+
+export default app;
 ```
 
 ---
@@ -140,6 +171,7 @@ def practice_git(student_name):
 Document the commands you've learned:
 
 **Commands I've mastered:**
+
 - [ ] `git clone`
 - [ ] `git branch`
 - [ ] `git checkout`
@@ -151,6 +183,7 @@ Document the commands you've learned:
 - [ ] `git log`
 
 **Commands I want to learn:**
+
 - [ ] `git rebase`
 - [ ] `git merge`
 - [ ] `git stash`
@@ -165,10 +198,17 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Your tip here:** Conventional Commits for clear and meaningful commit history.  
+   Use prefixes like:
+   - `feat:` for new features
+   - `fix:` for bug fixes
+   - `chore:` for maintenance tasks
+   - `docs:` for documentation changes
+   - `refactor:` for code improvements without behavior change
+   - `test:` for adding or updating tests
 
 ---
 
-*Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
+_Keep practicing! The more you use Git, the more comfortable you'll become._ 🌟
 
-**Last updated:** [Add date when you modify this file]
+**Last updated:** 01.04.2026
