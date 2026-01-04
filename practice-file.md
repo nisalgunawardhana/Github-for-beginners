@@ -54,9 +54,12 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
-**Topic:** [Your Topic]  
-**Content:** [Your content here]
+**Added by:** Maleesha Dilshan  
+**Topic:** Full-Stack Web Development (Node.js & React)  
+**Content:**  
+I am practicing full-stack development using Node.js for APIs and React for frontend applications.  
+For Node.js, I follow clean architecture (Controller → Service → Repository) to keep the code organized and maintainable.  
+I also focus on proper validation, error handling, and writing meaningful Git commit messages while building real-world projects.
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
