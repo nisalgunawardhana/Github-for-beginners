@@ -12,7 +12,24 @@ jobs:
       pull-requests: read
     
     steps:
+      - name: Check if issue is from submission template
+        id: check-template
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const body = issue.body || '';
+            
+            // Check for submission template markers
+            const isSubmissionTemplate = body.includes('Task Completion Details') || 
+                                        body.includes('GitHub Username') ||
+                                        body.includes('Task Name') ||
+                                        body.includes('Pull Request Link');
+            
+            core.setOutput('is_submission', isSubmissionTemplate ? 'true' : 'false');
+      
       - name: Assign issue to reviewer
+        if: steps.check-template.outputs.is_submission == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -24,6 +41,7 @@ jobs:
             });
       
       - name: Add labels to issue
+        if: steps.check-template.outputs.is_submission == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -35,6 +53,7 @@ jobs:
             });
       
       - name: Add submission tracking comment
+        if: steps.check-template.outputs.is_submission == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -47,6 +66,7 @@ jobs:
       
       - name: Extract PR link and check status
         id: check-pr
+        if: steps.check-template.outputs.is_submission == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -86,7 +106,7 @@ jobs:
             }
       
       - name: Add review in progress comment
-        if: steps.check-pr.outputs.has_pr_link == 'false'
+        if: steps.check-template.outputs.is_submission == 'true' && steps.check-pr.outputs.has_pr_link == 'false'
         uses: actions/github-script@v7
         with:
           script: |
@@ -98,7 +118,7 @@ jobs:
             });
       
       - name: Add PR closed warning comment
-        if: steps.check-pr.outputs.pr_closed == 'true'
+        if: steps.check-template.outputs.is_submission == 'true' && steps.check-pr.outputs.pr_closed == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -110,7 +130,7 @@ jobs:
             });
       
       - name: Add review in progress comment with PR
-        if: steps.check-pr.outputs.has_pr_link == 'true' && steps.check-pr.outputs.pr_closed == 'false'
+        if: steps.check-template.outputs.is_submission == 'true' && steps.check-pr.outputs.has_pr_link == 'true' && steps.check-pr.outputs.pr_closed == 'false'
         uses: actions/github-script@v7
         with:
           script: |
