@@ -25,3 +25,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+
+###  BinadithNirman 
+- **GitHub Username:**   @BinadithNirman   
+- **Location:**   Homagama
+- **Background:**   SofrwareEnginner 
+- **Learning Goals:**   Masters  Web3Development  and AWS AZURE 
+- **Fun Fact:**   Youtuber 
+- **Date Added:**   january 5 , 2026
