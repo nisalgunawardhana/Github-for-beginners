@@ -16,7 +16,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### Tharindu
+### Tharindugit
 - **GitHub Username:** @Tharindu
 - **Location:** gampaha
 - **Background:** Computer Science student learning web development
