@@ -20,12 +20,18 @@ jobs:
             const issue = context.payload.issue;
             const body = issue.body || '';
             
-            // Check for submission template markers
-            const isSubmissionTemplate = body.includes('Task Completion Details') || 
-                                        body.includes('GitHub Username') ||
-                                        body.includes('Task Name') ||
-                                        body.includes('Pull Request Link');
-            
+            // Check for submission issue form markers
+            const submissionMarkers = [
+              '## Submission Form',
+              '### Full Name',
+              '### University',
+              '### Pull Request Link',
+              '### Checklist'
+            ];
+
+            const matchCount = submissionMarkers.filter(marker => body.includes(marker)).length;
+            const isSubmissionTemplate = matchCount >= 3;
+
             core.setOutput('is_submission', isSubmissionTemplate ? 'true' : 'false');
       
       - name: Assign issue to reviewer
