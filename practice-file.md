@@ -93,13 +93,13 @@ Bad commit messages:
 
 Keep track of your practice:
 
-- [ ] Created your first branch
-- [ ] Made your first commit  
-- [ ] Added content to this file
-- [ ] Used `git status` command
-- [ ] Used `git log` command
-- [ ] Pushed your branch
-- [ ] Created a pull request
+- [x] Created your first branch
+- [x] Made your first commit  
+- [x] Added content to this file
+- [x] Used `git status` command
+- [x] Used `git log` command
+- [x] Pushed your branch
+- [x] Created a pull request
 
 ---
 
@@ -129,7 +129,14 @@ def practice_git(student_name):
     <h1>Learning Git is Fun!</h1>
 </div>
 ```
-
+### Java
+```java
+public class Main{
+    public static void main(String[] args){
+        System.out.println("Learning Git is Helpful!");
+    }
+}
+```
 ---
 
 ## 🔄 Git Command Practice
@@ -137,15 +144,15 @@ def practice_git(student_name):
 Document the commands you've learned:
 
 **Commands I've mastered:**
-- [ ] `git clone`
-- [ ] `git branch`
-- [ ] `git checkout`
-- [ ] `git add`
-- [ ] `git commit`
-- [ ] `git push`
-- [ ] `git pull`
-- [ ] `git status`
-- [ ] `git log`
+- [x] `git clone`
+- [x] `git branch`
+- [x] `git checkout`
+- [x] `git add`
+- [x] `git commit`
+- [x] `git push`
+- [x] `git pull`
+- [x] `git status`
+- [x] `git log`
 
 **Commands I want to learn:**
 - [ ] `git rebase`
