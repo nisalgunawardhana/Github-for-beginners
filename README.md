@@ -86,27 +86,31 @@ git push origin feature/your-name-introduction
 4. Add a title and description
 5. Click **"Create pull request"**
 
-## 📝 Practice Exercises
 
-### Beginner Level
-- [ ] Fork and clone this repository
-- [ ] Create a branch named `add-your-name`
-- [ ] Add your name to the `student-introductions.md` file
-- [ ] Commit and push your changes
-- [ ] Create a pull request
+## 🏆 Submission Guidelines
 
-### Intermediate Level
-- [ ] Create a branch named `feature/add-new-section`
-- [ ] Add a new section to the `practice-file.md`
-- [ ] Create multiple commits for your changes
-- [ ] Push and create a pull request
-- [ ] Create an issue for a new feature suggestion
+When you complete the exercises:
 
-### Advanced Level
-- [ ] Practice resolving merge conflicts
-- [ ] Rebase your branch on the latest main
-- [ ] Squash multiple commits into one
-- [ ] Review someone else's pull request
+1. **Move to the main repository (original one)** by switching your remote to the upstream/main repo if needed.
+2. **Create an issue on that branch** using the "Submission" template.
+3. **Include the following information:**
+    - Your GitHub username
+    - Links to your pull requests
+    - Screenshot of your contribution
+    - Brief reflection on what you learned
+
+## 📋 Checklist for Completion
+
+- [ ] Successfully forked the repository
+- [ ] Cloned to local machine
+- [ ] Created at least 2 different branches
+- [ ] Made commits with good commit messages
+- [ ] Pushed branches to GitHub
+- [ ] Created at least 1 pull request
+- [ ] Created at least 1 issue on the main repository
+- [ ] Added your introduction to the student introductions file
+
+
 
 ## 🐛 Working with Issues
 
@@ -174,29 +178,6 @@ git pull origin main
 # Fetch updates without merging
 git fetch upstream
 ```
-
-## 🏆 Submission Guidelines
-
-When you complete the exercises:
-
-1. **Move to the main repository (original one)** by switching your remote to the upstream/main repo if needed.
-2. **Create an issue on that branch** using the "Submission" template.
-3. **Include the following information:**
-    - Your GitHub username
-    - Links to your pull requests
-    - Screenshot of your contribution
-    - Brief reflection on what you learned
-
-## 📋 Checklist for Completion
-
-- [ ] Successfully forked the repository
-- [ ] Cloned to local machine
-- [ ] Created at least 2 different branches
-- [ ] Made commits with good commit messages
-- [ ] Pushed branches to GitHub
-- [ ] Created at least 1 pull request
-- [ ] Created at least 1 issue on the main repository
-- [ ] Added your introduction to the student introductions file
 
 ## 🤝 Contributing
 
