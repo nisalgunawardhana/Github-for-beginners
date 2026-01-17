@@ -20,6 +20,36 @@ Welcome to the **GitHub for Beginners** practice repository! This repo is design
 - ✅ Work with Issues
 - ✅ Basic Git commands and GitHub workflow
 
+## ⚙️ Prerequisites 
+
+### 1. Install Git
+
+#### For Windows:
+1. Download Git from [git-scm.com](https://git-scm.com/download/win)
+2. Run the installer and follow the setup wizard
+3. Use the default settings (recommended for beginners)
+4. Verify installation by opening Command Prompt or PowerShell:
+    ```bash
+    git --version
+    ```
+
+#### For Mac:
+1. Install via Homebrew (recommended):
+    ```bash
+    brew install git
+    ```
+    Or download from [git-scm.com](https://git-scm.com/download/mac)
+2. Verify installation in Terminal:
+    ```bash
+    git --version
+    ```
+
+### 2. Install Visual Studio Code
+1. Download VS Code from [code.visualstudio.com](https://code.visualstudio.com/)
+2. Install the application for your operating system
+3. Install the [VS Code command line tool](https://code.visualstudio.com/docs/editor/command-line) to open projects from terminal
+
+
 ## 🎯 Getting Started
 
 ### Step 1: Fork This Repository
@@ -86,6 +116,17 @@ git push origin feature/your-name-introduction
 4. Add a title and description
 5. Click **"Create pull request"**
 
+<p align="center">
+    <img src="images/pr-image1.png" alt="GitHub for Beginners banner" />
+</p>
+<p align="center">
+    <img src="images/pr-image2.png" alt="GitHub for Beginners banner" />
+</p>
+<p align="center">
+    <img src="images/pr-image3.png" alt="GitHub for Beginners banner" />
+</p>
+
+
 
 ## 🏆 Submission Guidelines
 
@@ -98,6 +139,13 @@ When you complete the exercises:
     - Links to your pull requests
     - Screenshot of your contribution
     - Brief reflection on what you learned
+
+<p align="center">
+    <img src="images/issue1.png" alt="GitHub for Beginners banner" />
+</p>
+<p align="center">
+    <img src="images/issue2.png" alt="GitHub for Beginners banner" />
+</p>
 
 ## 📋 Checklist for Completion
 
