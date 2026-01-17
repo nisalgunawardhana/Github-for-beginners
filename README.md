@@ -20,7 +20,9 @@ Welcome to the **GitHub for Beginners** practice repository! This repo is design
 - ✅ Work with Issues
 - ✅ Basic Git commands and GitHub workflow
 
-## ⚙️ Prerequisites 
+## Prerequisites
+
+Before you begin, make sure you have the following installed. For detailed installation instructions, see [Prerequisites – GitHub 101 (For Beginners).pdf](docs/Prerequisites%20–%20GitHub%20101%20(For%20Beginners).pdf)
 
 ### 1. Install Git
 
