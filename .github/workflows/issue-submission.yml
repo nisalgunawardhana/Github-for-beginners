@@ -24,6 +24,8 @@ jobs:
             const submissionMarkers = [
               '## Submission Form',
               '### Full Name',
+              '### LinkedIn URL (optional)',
+              '### Twitter/X URL (optional)',
               '### University',
               '### Pull Request Link',
               '### Checklist'

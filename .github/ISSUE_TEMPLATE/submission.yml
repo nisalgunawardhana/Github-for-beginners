@@ -23,11 +23,39 @@ body:
       required: true
 
   - type: input
+    id: email
+    attributes:
+      label: Email
+      description: A valid email address (will be used for reviewer follow-up)
+      placeholder: e.g., you@example.com
+    validations:
+      required: true
+
+  - type: input
+    id: linkedin-url
+    attributes:
+      label: LinkedIn Post (optional)
+      description: Link to your LinkedIn profile
+      placeholder: https://www.linkedin.com/in/your-handle
+    validations:
+      required: false
+
+  - type: input
+    id: twitter-url
+    attributes:
+      label: Twitter/X Post (optional)
+      description: Link to your Twitter or X profile
+      placeholder: https://twitter.com/your-handle
+    validations:
+      required: false
+
+
+  - type: input
     id: university
     attributes:
       label: University
       description: Your university name
-      placeholder: e.g., University of Example
+      placeholder: e.g., University of Ruhuna
     validations:
       required: true
 
