@@ -17,11 +17,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+- **GitHub Username:** @Jayo013
+- **Location:** Srilanka, Galle
+- **Background:** Undergraduate Computer Science student interested in Web Development and Cloud Computing
+- **Learning Goals:** Improve Git & GitHub workflows, build real-world full-stack projects, and strengthen cloud & DevOps skills
+- **Fun Fact:** I enjoy learning new tech stacks and turning ideas into projects 🚀
+- **Date Added:** January 28, 2026
 
 
