@@ -20,7 +20,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **GitHub Username:** @SachinTheekshana
 - **Location:** UOR
 - **Background:** Undergraduate
-- **Learning Goals:** Developer
+- **Learning Goals:** developer
 - **Fun Fact:** 
 - **Date Added:** 28/01/26
 
