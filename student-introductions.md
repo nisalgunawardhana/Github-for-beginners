@@ -16,7 +16,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
+### [Jayoda Pramuditha]
 - **GitHub Username:** @Jayo013
 - **Location:** Srilanka, Galle
 - **Background:** Undergraduate Computer Science student interested in Web Development and Cloud Computing
