@@ -17,11 +17,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+- **GitHub Username:** @Sadeedesh
+- **Location:** University of Ruhuna
+- **Background:** Computer science student
+- **Learning Goals:** complete my degree and collaborative development
+- **Fun Fact:** I can drive fast...
+- **Date Added:** january 28, 2026
 
 
