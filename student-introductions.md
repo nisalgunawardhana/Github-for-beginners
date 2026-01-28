@@ -18,10 +18,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### [Your Name Here]
 - **GitHub Username:** @sahandha444
-- **Location:** thavthisawa
-- **Background:** ahasa
-- **Learning Goals:** sak deviyo wena eka
-- **Fun Fact:** mama thamai sak deviyo.
-- **Date Added:** 2100.02.10
+- **Location:** Kalutara
+- **Background:** University of Ruhuna
+- **Learning Goals:** Being a data engineer
+- **Fun Fact:** mama thamai batman
+- **Date Added:** 2016.01.28
 
 
