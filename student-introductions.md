@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** UOR
 - **Background:** Undergraduate
 - **Learning Goals:** git/github
-- **Fun Fact:** Cake
+- **Fun Fact:** Money
 - **Date Added:** 28/01/2026
 
 
