@@ -5,6 +5,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ## Example
 
 ### John Doe (Example)
+
 - **GitHub Username:** @johndoe
 - **Location:** San Francisco, CA
 - **Background:** Computer Science student learning web development
@@ -16,12 +17,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Muhammadh Hameez
 
-
+- **GitHub Username:** @hameezexe
+- **Location:** Colombo
+- **Background:** Computer Science Undergraduate | Web Developer
+- **Learning Goals:** Backend Development
+- **Fun Fact:** I love playing Video Games
+- **Date Added:** 28 January 2026
