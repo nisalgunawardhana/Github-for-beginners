@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** thavthisawa
 - **Background:** ahasa
 - **Learning Goals:** sak deviyo wena eka
-- **Fun Fact:** mama thamai sak deviyo
+- **Fun Fact:** mama thamai sak deviyo.
 - **Date Added:** 2100.02.10
 
 
