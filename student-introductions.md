@@ -1,4 +1,4 @@
-# 👋 Student Introductions
+gitg# 👋 Student Introductions
 
 Welcome to our GitHub learning community! Please add your introduction below following the template.
 
@@ -16,6 +16,14 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
+### Omasha
+- **GitHub Username:** @nethmiomasha1999-ai
+- **Location:** Matara
+- **Background:** Statistics and Data Science
+- **Learning Goals:** To go abroad for higher studies 
+- **Fun Fact:** Eager tp learn though experiences.
+- **Date Added:** January 29, 2026
+
 ### [Your Name Here]
 - **GitHub Username:** @yourusername
 - **Location:** 
@@ -23,5 +31,3 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Learning Goals:** 
 - **Fun Fact:** 
 - **Date Added:** 
-
-
