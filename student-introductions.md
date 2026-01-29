@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Vipurthanan
+- **GitHub Username:** @lessandsass
+- **Location:** Batticaloa
+- **Background:** A Pharmacist, wanted to become a software engineer
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** Spending free time to learn to code
+- **Date Added:** January 29, 2026
+
 
