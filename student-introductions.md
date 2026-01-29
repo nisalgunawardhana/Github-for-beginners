@@ -22,6 +22,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** Kaluthara
 - **Learning Goals:** git/github
 - **Fun Fact:** 
-- **Date Added:** January 28,2026
+- **Date Added:** January 28, 2026
 
 
