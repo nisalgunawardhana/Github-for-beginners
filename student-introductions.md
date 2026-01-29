@@ -25,3 +25,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 28/01/2026
 
 
+
+### kasuni kaushalya
+- **GitHub Username:** @kasunikaushalya
+- **Location:** Matara
+- **Background:** Undergraduate
+- **Learning Goals:** University Of Ruhuna
+- **Fun Fact:** 
+- **Date Added:** 28/01/2026
