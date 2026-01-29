@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### abhilashiabhi35-wq
+- **GitHub Username:** abhilashiabhi35-wq
+- **Location:** Galle
+- **Background:** Undergraduate
+- **Learning Goals:** 
+- **Fun Fact:** 
+- **Date Added:** January 29, 2026
 
