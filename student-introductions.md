@@ -30,4 +30,4 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** 
 - **Learning Goals:** 
 - **Fun Fact:** 
-- **Date Added:** 
+- **Date Added:**
