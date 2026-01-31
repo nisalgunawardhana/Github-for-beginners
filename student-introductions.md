@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Caleb Chandrasekar
+- **GitHub Username:** @calebjubal
+- **Location:** New Delhi, Delhi, IN
+- **Background:** Computer Science Engineering undergrad build Gen AI systems
+- **Learning Goals:** Build a proper career in Gen AI and later in Quantum Computing!!
+- **Fun Fact:** I can also a Rubik's cube under 2 minutes and I love to play the piano
+- **Date Added:** January 31, 2026
 
 
