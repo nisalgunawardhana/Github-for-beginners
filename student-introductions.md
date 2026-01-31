@@ -17,8 +17,8 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
+- **GitHub Username:** @Bhagya-1011
+- **Location:UOR
 - **Background:** 
 - **Learning Goals:** 
 - **Fun Fact:** 
