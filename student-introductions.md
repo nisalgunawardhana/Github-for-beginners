@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Sandeepa Jayathunga
+
+- **GitHub Username:** sandeepajayayjunga319-collab
+- **Location:** Matugama
+- **Background:** Computer Science student learning web development
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** February 1, 2026
 
