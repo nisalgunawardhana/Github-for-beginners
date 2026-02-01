@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Ayaan Ali Khan]
+- **GitHub Username:** @Ayaan-Ali-Khan
+- **Location:** New Delhi, India
+- **Background:** Machine Learning student learning machine learning
+- **Learning Goals:** Master Machine Learning algorithms and MLops
+- **Fun Fact:** I like playing COD mobile and GTA
+- **Date Added:** February 2, 2026
 
 
