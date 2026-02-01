@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Bulbul 
+- **GitHub Username:** @Bulbulsingh11
+- **Location:** Gurgain, haryana
+- **Background:** BCA AI & Data Science student
+- **Learning Goals:** Learning DSA and Backend Devlopment 
+- **Fun Fact:** i'm a nerd, keenly interested in DSA!
+- **Date Added:** February 2, 2026
 
 
