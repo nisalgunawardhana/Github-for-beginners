@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** UOR
 - **Background:** Finantial Mathematics & Industrial Statistics
 - **Learning Goals:** git/github
-- **Fun Fact:** 
+- **Fun Fact:** Hi!
 - **Date Added:** 28/01/2026
 
 
