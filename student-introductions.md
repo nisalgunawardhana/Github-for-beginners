@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:**Kegalle 
 - **Background:** 
 - **Learning Goals:** 
-- **Fun Fact:** 
+- **Fun Fact:** Nothing
 - **Date Added:**2026/02/02 
 
 
