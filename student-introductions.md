@@ -2,26 +2,26 @@
 
 Welcome to our GitHub learning community! Please add your introduction below following the template.
 
-## Example
+## Lihansa Kavinthi
 
-### John Doe (Example)
-- **GitHub Username:** @johndoe
-- **Location:** San Francisco, CA
-- **Background:** Computer Science student learning web development
+### Lihansa Kavinthi
+- **GitHub Username:** @Lihansa-Kavinthi
+- **Location:** Colombo, Sri Lanka
+- **Background:** Data Science learning undergraduate student
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
-- **Date Added:** January 15, 2024
+- **Date Added:** February 08, 2026
 
 ---
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Lihansa Kavinthi
+- **GitHub Username:** @Lihansa-Kavinthi
+- **Location:** Colombo, Sri Lanka
+- **Background:** Data Science learning undergraduate student
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** February 08, 2026
 
 
