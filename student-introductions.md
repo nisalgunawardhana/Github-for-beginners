@@ -16,7 +16,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### M.Reesma Hanan
+### M.Reezma Hanan
 - **GitHub Username:** @reezmahanan
 - **Location:** Batticaloa, Srilanka
 - **Background:** 
