@@ -23,7 +23,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 IT Student at Institute of Technology, University of Moratuwa
 Currently learning: Java, Python, PHP, MySQL & Web Development
 Exploring: Cloud Computing, Cyber Security, AI/ML, Backend Development
-Passionate about building real-world software & full-stack applicatio
+Passionate about building real-world software & full-stack application
 - **Learning Goals:** Become a skilled Software Developer by 2028
 - **Fun Fact:** I love solving logic puzzles and UI redesigns for fun!
 - **Date Added:** February 13, 2026
