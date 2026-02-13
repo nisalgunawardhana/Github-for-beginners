@@ -1,4 +1,8 @@
+
 # 🤝 Contributing to GitHub for Beginners
+
+> **Code of Conduct:** We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before participating.
+
 
 Thank you for your interest in contributing to this learning repository! This guide will help you understand how to contribute effectively.
 
@@ -30,7 +34,20 @@ We welcome several types of contributions:
 - Include additional resources
 - Improve formatting and readability
 
-## 🚀 Getting Started
+
+## 🏷️ First-Timer Friendly
+
+Look for issues labeled `good first issue` or `first-timers only`—these are great starting points for new contributors!
+
+## 🖥️ Local Development Setup
+
+1. Fork and clone the repository as described below.
+2. Make sure you have Git installed. Run `git --version` to check.
+3. Open the project in your code editor (e.g., VS Code).
+4. Create a new branch for your changes.
+5. After making changes, commit and push to your fork.
+6. Open a pull request from your branch to the main repository.
+
 
 ### 1. Fork the Repository
 - Click the "Fork" button at the top of this repository

@@ -246,6 +246,8 @@ This is a learning repository, and contributions are welcome! If you have sugges
 - [Interactive Git Tutorial](https://learngitbranching.js.org/)
 - [GitHub Flow](https://guides.github.com/introduction/flow/)
 
+- [Certification Vouchers & Student Pack Info](student-opportunities/CERTIFICATION.md)
+
 ## 📞 Need Help?
 
 - Create an issue with the "Question" template

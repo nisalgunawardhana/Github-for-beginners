@@ -1,0 +1,24 @@
+name: Auto-check Git Quiz Answers
+
+on:
+  push:
+    paths:
+      - 'git-quiz.md'
+  pull_request:
+    paths:
+      - 'git-quiz.md'
+
+jobs:
+  quiz-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check quiz answers
+        run: |
+          if grep -q '\[x\] git init' git-quiz.md && \
+             grep -q '\[x\] git add .' git-quiz.md && \
+             grep -q '\[x\] The state of the working directory and staging area' git-quiz.md; then
+            echo "Quiz answers look correct!"
+          else
+            echo "Some quiz answers are missing or incorrect. Please review your answers." && exit 1
+          fi

@@ -54,9 +54,9 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
-**Topic:** [Your Topic]  
-**Content:** [Your content here]
+**Added by:** M.Reezma Hanan  
+**Topic:** Java  
+**Content:** Java is a versatile, object-oriented programming language used for building cross-platform applications. Its strong community and vast libraries make it ideal for beginners and professionals alike.
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
@@ -91,15 +91,16 @@ Bad commit messages:
 
 ## 📊 Practice Statistics
 
-Keep track of your practice:
 
-- [ ] Created your first branch
-- [ ] Made your first commit  
-- [ ] Added content to this file
-- [ ] Used `git status` command
-- [ ] Used `git log` command
-- [ ] Pushed your branch
-- [ ] Created a pull request
+Follow these steps and check off each as you complete them:
+
+- [ ] **Created your first branch:** Use `git branch branch-name` to create a new branch, and `git checkout branch-name` to switch to it.
+- [ ] **Made your first commit:** After making changes, use `git add .` to stage and `git commit -m "Your message"` to commit.
+- [ ] **Added content to this file:** Add your own section, tip, or code snippet anywhere in this file.
+- [ ] **Used `git status` command:** Run `git status` to see the state of your working directory and staging area.
+- [ ] **Used `git log` command:** Run `git log` to view your commit history.
+- [ ] **Pushed your branch:** Use `git push origin branch-name` to upload your branch to GitHub.
+- [ ] **Created a pull request:** On GitHub, open a pull request from your branch to the main repository to propose your changes.
 
 ---
 
