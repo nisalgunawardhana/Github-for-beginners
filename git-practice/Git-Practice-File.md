@@ -31,7 +31,7 @@ public class GitPractice {
     }
 }
 ```
-```
+
 
 ### 4. **Stage and Commit - Challenge 1: Multiple Commits**
 
