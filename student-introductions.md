@@ -25,11 +25,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
-### Randilu Prathibha
+### randilu prathibha
 - **GitHub Username:** @randilu619
 - **Location:** Ampara
-- **Background:** undergraduate student
-- **Learning Goals:** Master Git workflows and collaborative development and learn devops
-- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes
-
+- **Background:** undergrauate student
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
 - **Date Added:** February 14, 2026
+
+---
