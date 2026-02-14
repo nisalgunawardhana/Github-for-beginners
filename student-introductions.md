@@ -23,5 +23,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Learning Goals:** 
 - **Fun Fact:** 
 - **Date Added:** 
-
-
+### John Doe (Example)
+- **GitHub Username:** @asiri
+- **Location:** New Zealand
+- **Background:** Networking 
+- **Learning Goals:** Master NEtwork 
+- **Fun Fact:** Fun
+- **Date Added:** Feb 15, 2026
