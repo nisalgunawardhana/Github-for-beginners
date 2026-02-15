@@ -66,7 +66,7 @@ Before you begin, make sure you have the following installed. For detailed insta
 
 ### Step 1: Fork This Repository
 1. Click the **"Fork"** button at the top right of this repository 
-2. This creates a copy of the repository in your GitHub account For detailed steps, see [How to Fork a Repository](md%20files/fork.md)
+2. This creates a copy of the repository in your GitHub account For detailed steps, see [How to Fork a Repository](support%20md%20files/fork.md)
 
 ### Step 2: Clone Your Fork
 ```bash
