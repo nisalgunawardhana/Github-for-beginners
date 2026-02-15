@@ -115,6 +115,10 @@ git add .
 git commit -m "Add introduction for [Your Name]"
 ```
 
+> ⚠️ **Note:** If you encounter issues like Git not recognizing your name or email during commits, this can prevent you from committing changes.  
+> You can troubleshoot and fix it by following the steps in the support file:  
+> [`Git-Configuration-Troubleshooting.md`](support%20md%20files/Git-Configuration-Troubleshooting.md)
+
 ### Exercise 4: Push Your Branch
 ```bash
 # Push your branch to your fork
