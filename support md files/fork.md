@@ -12,6 +12,6 @@ Review the default settings and click the **Create fork** button to proceed.
 ![Create fork button](/images/fork2.png)
 
 ## Step 3: Verify Your Fork
-Confirm that the repository has been forked successfully. Check your email for a confirmation link to verify the action.
+Confirm that the repository has been forked successfully. Check this 
 
 ![fork confirm](/images/fork3.png)
