@@ -51,7 +51,7 @@ Before you begin, make sure you have the following installed. For detailed insta
 2. Install the application for your operating system
 3. Install the [VS Code command line tool](https://code.visualstudio.com/docs/editor/command-line) to open projects from terminal
 
-### Instruction Videos
+## Instruction Videos
 
 | Language | Video | Status |
 |----------|-------|--------|
@@ -61,7 +61,7 @@ Before you begin, make sure you have the following installed. For detailed insta
 
 
 
-## 🎯 Getting Started
+## Getting Started
 
 
 ### Step 1: Fork This Repository
