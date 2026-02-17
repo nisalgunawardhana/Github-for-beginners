@@ -25,3 +25,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Rashmi Aththanayake
+- **GitHub Username:** @Rash1030
+- **Location:** Anuradhapura
+- **Background:** Management Information System undergraduate at NSBM
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** 
+- **Date Added:** February 17, 2026
