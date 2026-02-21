@@ -26,7 +26,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:**
 - **Date Added:**
 
-### Dulakshana Rukshan Priyadarshana
+### Dulakshana Rukshan
 
 - **GitHub Username:** @dulakshana-rukshan
 - **Location:** Kadawatha,Sri Lanka
