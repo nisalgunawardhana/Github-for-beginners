@@ -18,7 +18,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### Praveen Thathsara Rathnayake
 - **GitHub Username:** @Praveen-Thathsara
-- **Location:** Sabaragamuwa University of Sri Lanka, Belihuloya
+- **Location:** Sabaragamuwa University of Sri Lanka, Belihuloya.
 - **Background:** Undergraduate in Computing and Information Systems
 - **Learning Goals:** Git workflows
 - **Fun Fact:** I'm a Call of Duty player
