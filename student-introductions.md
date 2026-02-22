@@ -16,12 +16,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
-
+### Praveen Thathsara Rathnayake
+- **GitHub Username:** @Praveen-Thathsara
+- **Location:** Sabaragamuwa University of Sri Lanka, Belihuloya
+- **Background:** Undergraduate in Computing and Information Systems
+- **Learning Goals:** Git workflows
+- **Fun Fact:** I'm a Call of Duty player
+- **Date Added:** Feb 22, 2026
