@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Bhagya Abeykoon
+- **GitHub Username:** @Bhagyaabeykoon
+- **Location:** Maniyangama, Avissawella, Sri Lanka
+- **Background:** Currently reading BSc in Management Information Systems (Special) in NSBM Green University 
+- **Learning Goals:** I am learning GitHub to understand how developers collaborate, manage code versions, and contribute to open-source projects.
+- **Fun Fact:** I enjoy working in teams and leading group projects at university.
+- **Date Added:** February 22, 2026
 
 
