@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Shehan Hiththatiyage
+- **GitHub Username:** @shehan-hiththatiyage
+- **Location:** Matara 
+- **Background:** IT Student
+- **Learning Goals:** Full Stack Developer
+- **Fun Fact:** i can get 36 runs to one over in Cricke Game Easy mode
+- **Date Added:** February 24,2026 
 
 
