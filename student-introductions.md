@@ -16,12 +16,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
+### Sasidu Samith Kumara Herath
+- **GitHub Username:** @HMSSKHerath
+- **Location:** Galewela, Sri Lanka .
+- **Background:** Computer Science student currently learning web development .
+- **Learning Goals:** Mastering Git workflows and contributing effectively to Open Source projects .
+- **Fun Fact:** I code better with music on 🎧 .
+- **Date Added:** February 24, 2026 .
 
