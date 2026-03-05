@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### John Doe (Example)
+- **GitHub Username:** @PasiSandeepa
+- **Location:** Galle
+- **Background:** Software Engineer
+- **Learning Goals:** To master Git workflows, understand collaborative development through Pull Requests, and learn how to contribute to open-source projects effectively.
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** March 5, 2026 
+
 
