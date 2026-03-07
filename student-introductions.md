@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Ravishka Rathnayaka
+- **GitHub Username:** @ravishkarathnayaka
+- **Location:** Kanthale , Sri Lanka
+- **Background:** Cybersecurity Undergraduate
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can't solve a Rubik's cube in under 2 minutes!
+- **Date Added:** March 08, 2026
+
 
