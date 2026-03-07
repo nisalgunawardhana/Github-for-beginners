@@ -29,7 +29,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Kanthale , Sri Lanka
 - **Background:** Cybersecurity Undergraduate
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** I can't solve a Rubik's cube in under 2 minutes!
+- **Fun Fact:** I can't solve a Rubik's cube in under 05 minutes!
 - **Date Added:** March 08, 2026
 
 
