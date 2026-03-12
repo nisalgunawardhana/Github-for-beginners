@@ -28,7 +28,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ### Hasini Nisansala
 - **GitHub Username:** @Nisansala26
 - **Location:** Matara
-- **Background:** software engineer 
+- **Background:** software engineer / University student
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
 - **Date Added:** 12 march ,2026
