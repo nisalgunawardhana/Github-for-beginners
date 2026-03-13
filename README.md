@@ -1,7 +1,7 @@
 My name: Chamudi
 Learning GitHub basics
 # 🚀 GitHub 101 - GitHub For Beginners
-
+#<!-- Extra note from Chamudi: Loving GitHub! -->
 Welcome to the **GitHub for Beginners** practice repository! This repo is designed to help you learn and practice essential GitHub workflows including forking, cloning, branching, committing, pushing, and creating pull requests.
 
 <p align="center">
