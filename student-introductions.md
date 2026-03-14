@@ -24,4 +24,9 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
-
+### Darani Wickramasinghe
+- **GitHub Username:** Darani-Wickramasinghe
+- **Location:** Anuradhapura
+- **Background:** IT student , University of kelaniya
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Date Added:** March 14, 2026
