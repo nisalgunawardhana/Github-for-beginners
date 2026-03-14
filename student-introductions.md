@@ -26,3 +26,14 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 15/February/2026
 
 
+
+
+
+### John Doe (Example)
+- **GitHub Username:** Didn't have one
+- **Location:** Veyangoda,Sri Lanka
+- **Background:** higher studies
+- **Learning Goals:** improve knowladge in IT
+- **Fun Fact:** enjoy myself
+- **Date Added:** 15/February/2026
+
