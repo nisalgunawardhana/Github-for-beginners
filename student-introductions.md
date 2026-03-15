@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Yasiru Medagoda
+- **GitHub Username:** @yasirujr
+- **Location:** Ratnapura
+- **Background:** Entrepreneur,Software Engineering student
+- **Learning Goals:** Become a good developer
+- **Fun Fact:** I'm always smiling
+- **Date Added:** March 15, 2026
 
