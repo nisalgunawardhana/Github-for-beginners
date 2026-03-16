@@ -25,3 +25,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** February 17,2026
 
 
+### Sudeshika Sandeepani
+- **GitHub Username:** @sudeshi
+- **Location:** Negombo
+- **Background:** Undergraduate of University of Ruhuna...
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** play chess ,play games
+- **Date Added:** March 16 ,2026
+
+
