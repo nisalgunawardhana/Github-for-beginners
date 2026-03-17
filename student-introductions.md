@@ -22,6 +22,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** IT student
 - **Learning Goals:** being a proficient at IT field
 - **Fun Fact:** 
-- **Date Added:** March 17,2025
+- **Date Added:** March 17, 2025
 
 
