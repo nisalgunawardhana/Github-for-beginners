@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
+### Dilki Senanayake
 - **GitHub Username:** @DilkiSenanayake
 - **Location:** Anuradhapura
-- **Background:** Undergraduate
-- **Learning Goals:** IT expert
-- **Fun Fact:** 
-- **Date Added:** 12/30/2025
+- **Background:** Undergraduate student in IT-related studies
+- **Learning Goals:** To develop strong programming skills and grow into a skilled IT professional
+- **Fun Fact:** I love cats and creative work
+- **Date Added:** March 18, 2026
 
 
