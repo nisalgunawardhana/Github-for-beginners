@@ -20,7 +20,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **GitHub Username:** @SanduniS18
 - **Location:** Beliatta,Srilanka
 - **Background:** Information Technology student
-- **Learning Goals:** Become a well known person about IT industry
+- **Learning Goals:** Improve my programming skills and build real projects
 - **Fun Fact:** I love to watch Turkish drama
 - **Date Added:** March 19, 2025
 
