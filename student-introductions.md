@@ -30,5 +30,5 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** Undergraduate in Sabaragamuwa University of Sri Lanka
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
-- **Date Added:** March 19, 2026
+- **Date Added:** March 19, 2026.
 
