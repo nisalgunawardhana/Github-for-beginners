@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Pruthuvi De Silva
+- **GitHub Username:** @PruthuviDe
+- **Location:** Colombo, Sri Lanka
+- **Background:** Backend Developer specializing in .NET & Cloud Engineering | Undergraduate Student @ Coventry | BSc (Hons) Computing
+- **Learning Goals:** Master cloud solutions, improve open-source contributions, and advance expertise in clean code practices
+- **Fun Fact:** Passionate about building scalable cloud solutions and enthusiastic about cutting-edge technologies!
+- **Date Added:** March 19, 2026 
 
 
