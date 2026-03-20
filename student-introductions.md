@@ -28,7 +28,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### Mihirangi De Silva
 - **GitHub Username:** @Mihirangi315
-- **Location:**  Polonnaruwa
+- **Location:**  Athumalpitiya, Polonnaruwa
 - **Background:** Undergraduate of UoK
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** 
