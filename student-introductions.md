@@ -24,4 +24,13 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+## Example
 
+### Mihirangi De Silva
+- **GitHub Username:** @Mihirangi315
+- **Location:** Athumalpitiya , Polonnaruwa
+- **Background:** Undergraduate of UoK
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** 
+I like to read novals with out eating anything
+- **Date Added:** 20/03/2026
