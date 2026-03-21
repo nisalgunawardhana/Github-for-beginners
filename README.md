@@ -68,6 +68,13 @@ Before you begin, make sure you have the following installed. For detailed insta
 1. Click the **"Fork"** button at the top right of this repository 
 2. This creates a copy of the repository in your GitHub account For detailed steps, see [How to Fork a Repository](support%20md%20files/fork.md)
 
+> 💡 **Best Practice:** Create a dedicated folder on your Desktop called `workshop` for this project.
+> 
+> 
+> After creating the folder, open your terminal/command prompt from that location before cloning the repository.
+>
+> **For Windows users:** Follow these detailed instructions: [Windows Command Prompt Setup](support%20md%20files/win-cmd.md)
+
 ### Step 2: Clone Your Fork
 ```bash
 # Replace 'your-username' with your actual GitHub username
