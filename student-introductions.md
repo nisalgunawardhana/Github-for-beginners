@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Panadura, Sri Lanka
 - **Background:** School Student
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Fun Fact:** Blaaa blaa
 - **Date Added:** March 21, 2026
 
 
