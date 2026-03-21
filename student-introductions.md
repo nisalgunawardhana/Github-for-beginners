@@ -24,4 +24,13 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Gaveshi
+- **GitHub Username:** @Gave-shi
+- **Location:** Matara
+- **Background:** Undergraduate
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** March 21, 2025
+
+
 
