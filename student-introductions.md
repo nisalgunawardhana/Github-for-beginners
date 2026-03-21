@@ -24,4 +24,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
-
+### Suneth Narada
+- **GitHub Username:** NaradaMsanka
+- **Location:** Ambalantota
+- **Background:** Computer Science student learning web development
+- **Learning Goals:** Bsc Hone
+- **Fun Fact:**travelling
+- **Date Added:** march 15, 2026
