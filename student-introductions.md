@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Koswatta, Colombo
 - **Background:** Software engineering student learning mobile development
 - **Learning Goals:** Master git workflow
-- **Fun Fact:** 
+- **Fun Fact:** car enthusiast
 - **Date Added:** March 23, 2026
 
 
