@@ -27,9 +27,9 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ### Hashani Madhushini
 - **GitHub Username:** @HashaniMadhushini
 - **Location:**Kalutara
-- **Background:** Mannagement Information System student learning web development
+- **Background:** Mannagement Information System student
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
-- **Date Added:** March 24, 2026
+- **Date Added:** March 25, 2026
 
 
