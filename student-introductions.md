@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### [Sasindu Gihan]
+- **GitHub Username:** @sasinduv
+- **Location:** Beruwala
+- **Background:** Computer science UG
+- **Learning Goals:** Master git workflows and collabrative development
+- **Fun Fact:** I dont like this 
+- **Date Added:** 2026/03/26
 
