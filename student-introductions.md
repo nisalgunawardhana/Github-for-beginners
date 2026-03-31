@@ -24,4 +24,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
-
+### Senal Anuraheesara
+- **GitHub Username:** @senalanuraheesara
+- **Location:** Gampaha
+- **Background:** Data Science undergraduate,Python & ML enthusiast
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:**  I love solving real-world problems through coding and building efficient software solutions! 
+- **Date Added:** March 31, 2026
