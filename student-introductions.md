@@ -23,7 +23,7 @@ Hiii Im dushara.....
 
 - **GitHub Username:** @dushara
 - **Location:** sri lanka
-- **Background:**
+- **Background:** SE STUDENT
 - **Learning Goals:**
 - **Fun Fact:** I born today
 - **Date Added:**01/04/2026
