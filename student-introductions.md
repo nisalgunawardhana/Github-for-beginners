@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### pasindu madubhashana
+- **GitHub Username:** @HVpasindu
+- **Location:** kalutarar
+- **Background:** Full stack developer
+- **Learning Goals:**  Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** april 3, 2026
+
 
