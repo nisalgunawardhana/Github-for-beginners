@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Charith Kulathunga]
+- **GitHub Username:** @KmAC
+- **Location:** Kandy, Sri Lanka
+- **Background:** Computer Science Undergraduate
+- **Learning Goals:** Master in computer science
+- **Fun Fact:** I can play volley ball well
+- **Date Added:** April 2, 2026
 
 
