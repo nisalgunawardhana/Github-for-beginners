@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Achal Eshan
+- **GitHub Username:** @Achalaz
+- **Location:** Ratnapura
+- **Background:** BICT student
+- **Learning Goals:** SE,ML
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** April 4, 2026
+
 
