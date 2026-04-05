@@ -16,12 +16,16 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Anushka Dilinuwan Wijesinghe
+
+* **GitHub Username:** @WijAnushka02
+* **Location:** Kelaniya, Sri Lanka
+* **Background:** 3rd year Undergraduate, BSc (Hons) in Software Engineering, University of Kelaniya. Interested in data analytics, data science, and software development. Experience with Python, C programming, and basic data visualization tools.
+* **Learning Goals:** Improve Git and GitHub collaboration skills, build strong data analytics projects, and gain practical experience in real-world software development.
+* **Fun Fact:** I enjoy writing technical blogs on Medium and exploring new tech trends.
+* **Date Added:** April 05, 2026
+
+---
+
 
 
