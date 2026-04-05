@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Imesh Bandara
+- **GitHub Username:** @imeshbandara
+- **Location:** Rambukkana, Sri Lanka
+- **Background:** Software Engineering undergraduate
+- **Learning Goals:** To become a skilled software engineer
+- **Fun Fact:** Blends technical thinking with creativity
+- **Date Added:** April 5, 2026
 
 
