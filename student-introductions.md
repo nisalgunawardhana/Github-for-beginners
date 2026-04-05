@@ -14,7 +14,17 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ---
 
-<!-- Add your introduction below this line -->
+# Check what files have changed
+git status
+
+# Add your changes to staging
+git add student-introductions.md
+
+# Or add all changes
+git add .
+
+# Commit your changes with a descriptive message
+git commit -m "Add introduction for [Your Name]"
 
 ### [Your Name Here]
 - **GitHub Username:** @yourusername
