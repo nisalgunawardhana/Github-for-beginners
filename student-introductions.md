@@ -4,24 +4,24 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ## Example
 
-### John Doe (Example)
-- **GitHub Username:** @johndoe
-- **Location:** San Francisco, CA
-- **Background:** Computer Science student learning web development
+### Nethmi Rajapaksha (Example)
+- **GitHub Username:** @Nnavodya
+- **Location:** University of Kelaniya, Sri Lanka
+- **Background:** Software Engineering student learning web development
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
-- **Date Added:** January 15, 2024
+- **Date Added:** April 5, 2026
 
 ---
 
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+- **GitHub Username:** @Nnavodya
+- **Location:** University of Kelaniya
+- **Background:** Software Engineering student learning web development
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** I can solve a Rubik's cube in under 2 minutes!
 
 
