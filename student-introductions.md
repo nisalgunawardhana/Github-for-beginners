@@ -18,7 +18,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### [Your Name Here]
 - **GitHub Username:** @Thisandu04
-- **Location:** Galle,SriLanka
+- **Location:** kaduruduwa,Galee,SriLanka
 - **Background:** Software Engineering student learning software engineering
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** My nickname is Lambert, but it's not relevent me from the meaning. Just a nickname.
