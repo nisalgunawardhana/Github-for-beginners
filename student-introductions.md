@@ -1,4 +1,4 @@
-# 👋 Student Introductions
+    # 👋 Student Introductions
 
 Welcome to our GitHub learning community! Please add your introduction below following the template.
 
@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
+### chamal nanayakkara
+- **GitHub Username:** chamalnanayakkara
+- **Location:** galle
+- **Background:** infomation technology student
+- **Learning Goals:** master github
 - **Fun Fact:** 
-- **Date Added:** 
+- **Date Added:** 06/04/2026
 
 
