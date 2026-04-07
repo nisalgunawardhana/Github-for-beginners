@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Menula De Silva
+- **GitHub Username:** @DMS-Menula
+- **Location:** @No:577 : Thiriwanakatiya, Ratnapura, Sabaragamuwa
+- **Background:** Computer Science student who likes to learn new things .
+- **Learning Goals:** Master Git, Build Unique And New Things ( Already made some npm packages )
+- **Fun Fact:** I Love Playing Cricket And Even I'M A Open Batsmen In Our School Cricket Team.
+- **Date Added:** April 7, 2025
 
 
