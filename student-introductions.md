@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Dasun Niroshana
+- **GitHub Username:** @Dniroshana
+- **Location:** Gampaha
+- **Background:** Information Technology Undergraduate specializing in Networking and Mobile Computing.
+- **Learning Goals:** To master advanced Network Infrastructure, Full-Stack Development (Python/Node.js), and AI-driven IT solutions.
+- **Fun Fact:** I enjoy turning complex real-world problems, like waste management, into minimalist mobile app designs.
+- **Date Added:** April 10, 2026
 
 
