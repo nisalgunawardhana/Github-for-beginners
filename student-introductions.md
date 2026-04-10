@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Gampaha
 - **Background:** Information Technology Undergraduate specializing in Networking and Mobile Computing.
 - **Learning Goals:** To master advanced Network Infrastructure, Full-Stack Development (Python/Node.js), and AI-driven IT solutions.
-- **Fun Fact:** I enjoy turning complex real-world problems, like waste management, into minimalist mobile app designs.
+- **Fun Fact:** I love the challenge of bridging the gap between complex network backends and user-friendly mobile interfaces.
 - **Date Added:** April 10, 2026
 
 
