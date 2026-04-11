@@ -17,7 +17,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### Tharushika sethani
-- **GitHub Username:** @tharushika
+- **GitHub Username:** @tharushikasethani
 - **Location:** matara
 - **Background:** CS undergraduate in UCSC
 - **Learning Goals:** Master Git workflows and collaborative development
