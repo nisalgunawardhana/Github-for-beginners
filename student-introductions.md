@@ -18,7 +18,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### Fred Atone
 - **GitHub Username:** @fredaton
-- **Location:** Eindhoven NL
+- **Location:** Eindhoven The netherlands
 - **Background:** Physics guy learning data science and git
 - **Learning Goals:** Learn Git workflows for collaboration
 - **Fun Fact:**  10km and counting
