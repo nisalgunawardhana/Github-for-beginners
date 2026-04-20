@@ -25,3 +25,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Nethmi Muthukumarana
+- **GitHub Username:** @Nethmi0226
+- **Location:** Matara
+- **Background:** MIT Undergraduate at University of Kelaniya
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can read novels all day long!
+- **Date Added:** April 20, 2026
