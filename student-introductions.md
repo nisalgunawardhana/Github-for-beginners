@@ -28,7 +28,8 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ### Sathira Laksahan
 - **GitHub Username:** @Sathira-Laksahan
 - **Location:** Monaragala, UVA
-- **Background:** IT student learn web development
+- **Background:** IT student learn web development and cyber security
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can watch a movei in under 2 minutes!
 - **Date Added:** April 20, 2026
+
