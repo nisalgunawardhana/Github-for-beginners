@@ -25,3 +25,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Chanuki Fernando
+- **GitHub Username:** @chanukinaveesha
+- **Location:** Moratuwa
+- **Background:** Undergraduate
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve the rubik's cube in 55 seconds
+- **Date Added:** 21.04.2026
