@@ -24,4 +24,9 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
-
+### Thilini Kavindya
+- **GitHub Username:** @thilini28
+- **Location:** Gampaha
+- **Background:** Undergraduate | BSc. Honors Degree in Information Communication Technology
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Date Added:** April 22, 2026
