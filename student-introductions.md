@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Madawa Vishwajith
+- **GitHub Username:** @madawaMax
+- **Location:** Dorawaka, Warakapola
+- **Background:** Undergraduate Software Engineer 
+- **Learning Goals:** Devops Learing
+- **Fun Fact:** Watching Movies
+- **Date Added:** April 24, 2026
+
 
