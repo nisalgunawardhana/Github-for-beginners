@@ -19,7 +19,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ### L.P.S Liyanage
 - **GitHub Username:** @APXs-01
 - **Location:** Gal Ovita Road, Makandura, Gonawila.
-- **Background:** IT
+- **Background:** IT Student
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** plaing video games
 - **Date Added:** April 26, 2026
