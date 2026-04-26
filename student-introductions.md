@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** SLIIT Malabe
 - **Background:** AI
 - **Learning Goals:** Github 101
-- **Fun Fact:** blaa  blaa
+- **Fun Fact:** I can do Anything
 - **Date Added:** 2026/04/26
 
 
