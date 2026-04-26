@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** SLIIT
 - **Background:** Data Science
 - **Learning Goals:** Github 101
-- **Fun Fact:** I am gonna learn github today!!!
+- **Fun Fact:** I am gonna learn github today!!
 - **Date Added:** 26/04/2026
 
 
