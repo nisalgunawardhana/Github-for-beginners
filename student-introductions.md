@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Hiranya Abeywickrama
+- **GitHub Username:** @hiranya22-m
+- **Location:** SLIIT Malabe
+- **Background:** Data Science student learning web development
+- **Learning Goals:** Github
+- **Fun Fact:** I can draw art
+- **Date Added:** April 26, 2026
 
 
