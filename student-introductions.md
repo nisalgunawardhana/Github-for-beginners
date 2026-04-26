@@ -10,14 +10,15 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** Computer Science student learning web development
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+
 - **Date Added:** January 15, 2024
 
 ---
 
-<!-- Add your introduction below this line -->
+<!-- IT24102064 introduction below this line-->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
+### [IT24102064]
+- **GitHub Username:** @IT24102064.
 - **Location:** 
 - **Background:** 
 - **Learning Goals:** 
