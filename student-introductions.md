@@ -25,3 +25,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Kaveesha Mendis
+- **GitHub Username:** @KaveeshaMendis
+- **Location:** Ragama
+- **Background:** Computer Science student learning web development
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** 
+- **Date Added:** April 27, 2026
