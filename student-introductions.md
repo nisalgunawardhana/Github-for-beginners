@@ -22,7 +22,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Colombo, Sri Lanaka
 - **Background:** Artificial Intelligence student 
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** I can dance
+- **Fun Fact:** I can sing
 - **Date Added:** April 26, 2024
 
 
