@@ -19,7 +19,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ### [Your Name Here]
 - **GitHub Username:** @dinilkojitha
 - **Location:** SLIIT - malabe
-- **Background:**  IT
+- **Background:**  Student
 - **Learning Goals:** Github 101 
 - **Fun Fact:** blaa blaa
 - **Date Added:** 2026/04/26
