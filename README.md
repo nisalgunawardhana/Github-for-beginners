@@ -18,7 +18,7 @@ Welcome to the **GitHub for Beginners** practice repository! This repo is design
 - ✅ Push changes to GitHub
 - ✅ Create Pull Requests
 - ✅ Work with Issues
-- ✅ Basic Git commands and GitHub workflow
+- ✅ Basic Git commands and GitHub workflow - 
 
 ## Prerequisites
 
