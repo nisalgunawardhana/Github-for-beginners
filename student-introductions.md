@@ -18,10 +18,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### Pasindu Samarasingha
 - **GitHub Username:** @PasinduSamarasingha
-- **Location:** 
+- **Location: Embilipitiya** 
 - **Background:** 
 - **Learning Goals:** 
 - **Fun Fact:** 
-- **Date Added:** 
+- **Date Added: 2026/04/26** 
 
 
