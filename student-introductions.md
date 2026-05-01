@@ -25,3 +25,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
 - **Date Added:** may 1,2026
+
+full stack development (batch 01)
+assignment 1
