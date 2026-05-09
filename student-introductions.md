@@ -24,11 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
-### Tharani
+### Tharani Adithya
 - **GitHub Username:** TharaniA15
 - **Location:** Homagama
 - **Background:** Computer Science student 
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** I can dance
+- **Fun Fact:** I can dance and singing songs
 - **Date Added:** May 9, 2026
 
