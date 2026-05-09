@@ -26,9 +26,9 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### Tharani Adithya
 - **GitHub Username:** TharaniA15
-- **Location:** Homagama
+- **Location:** Homagama,Sri Lanka
 - **Background:** Computer Science student 
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** I can dance and singing songs
+- **Fun Fact:** I can dance and singing
 - **Date Added:** May 9, 2026
 
