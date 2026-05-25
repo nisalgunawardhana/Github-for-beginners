@@ -25,3 +25,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+
+### Rusira Indrachapa
+- **GitHub Username:** @Rusira-Indrachapa
+- **Location:** Bandaragama
+- **Background:** BIT Undegraduwate passionate about IT & New Technology
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can Dancing well in any places>
+- **Date Added:** May 25 2026
