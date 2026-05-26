@@ -16,12 +16,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
+## Gowtham M
+- **GitHub Username:** @Gowtham280103
+- **Location:** Chennai, India
+- **Background:** Final year ECE student learning web development, cloud and AI/ML
+- **Learning Goals:** Improve GitHub and software development skills
+- **Fun Fact:** I am transitioning from ECE to IT field
+- **Date Added:** May 26, 2026
 
