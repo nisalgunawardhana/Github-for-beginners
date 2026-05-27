@@ -16,12 +16,13 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+## Vishal Kumar
 
+Hi everyone! 👋
 
+I’m Vishal Kumar from Jharkhand, currently pursuing BCA at DSPMU Ranchi. Passionate about AI/ML, Cloud Computing, Web Development, and Open Source.
+
+Currently exploring Microsoft Learn and Generative AI technologies step by step. Excited to contribute and grow with the open-source community! 🚀
+
+- GitHub: https://github.com/codewithvishuuu
+- LinkedIn: https://www.linkedin.com/in/vishal-kumar-805248335/
