@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Sadisha viraj
+- **GitHub Username:** @jSadiya0001
+- **Location:** galle
+- **Background:** university student
+- **Learning Goals:** cybersecurity
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** May 31, 2026
+
 
