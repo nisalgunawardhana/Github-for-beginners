@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Movindhie
+- **GitHub Username:** @moviii03
+- **Location:** Galle,SriLanka
+- **Background:** Computer Science student learning web development
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** June 16, 2026
 
