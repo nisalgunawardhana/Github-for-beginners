@@ -24,4 +24,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Selini Rajapaksha
+- **GitHub Username:** Selini-Rajapaksha
+- **Location:** Gampaha
+- **Background:** Computer Science student 
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Date Added:** June 28, 2026
 
