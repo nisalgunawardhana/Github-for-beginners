@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Maheen Sayuru]
+- **GitHub Username:** @maheensayuru
+- **Location:** SLTC
+- **Background:** Software Engineering student 
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I'm a backend engineer, which basically means my code is the invisible engine keeping the frontend from falling apart.
+- **Date Added:** July 4, 2026
 
 
