@@ -17,9 +17,9 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
+- **GitHub Username:** Sithum0000
+- **Location:**SLTC 
+- **Background:** Data Science Student Learning AI
 - **Learning Goals:** 
 - **Fun Fact:** 
 - **Date Added:** 
