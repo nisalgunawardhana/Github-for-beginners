@@ -18,10 +18,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### [Your Name Here]
 - **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+- **Location:** SLTC
+- **Background:** SE
+- **Learning Goals:** Learning Git and Github
+- **Fun Fact:** Geology is not a real science!
+- **Date Added:** 2026-07-04
 
 
