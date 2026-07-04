@@ -25,3 +25,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Pamodha vikum
+- **GitHub Username:** @pamodha
+- **Location:** Dabulla
+- **Background:** University student
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** july 10 2026
+
