@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** SLTC
 - **Background:** Undergraduate
 - **Learning Goals:** Learn Git
-- **Fun Fact:** 
+- **Fun Fact:** None
 - **Date Added:** 7/4/2026
 
 
