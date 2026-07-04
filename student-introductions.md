@@ -26,7 +26,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 
 ### Pamodha vikum
-- **GitHub Username:** @pamodha
+- **GitHub Username:** @pamodhaVikum
 - **Location:** Dabulla
 - **Background:** University student
 - **Learning Goals:** Master Git workflows and collaborative development
