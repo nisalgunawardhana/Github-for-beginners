@@ -25,3 +25,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+
+- **GitHub Username:** @Chamod Vihanga
+- **Location:** Mirigama
+- **Background:** Bict
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** July 12, 2026
