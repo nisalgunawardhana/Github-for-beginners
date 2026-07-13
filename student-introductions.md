@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Ruchika Upuldeniya
+- **GitHub Username:** @ruchikaUpuldeniya
+- **Location:** Anuradhapura
+- **Background:** Software Engineer
+- **Learning Goals:** Master Git Workflow and Collabrative development
+- **Fun Fact:** I can solve a Rubik's cude in under 2 min 
+- **Date Added:** 7/13/2026 
 
 
