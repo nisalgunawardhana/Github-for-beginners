@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Samadhi Madubhashini
+- **GitHub Username:** @SamadhiMadubhashini
+- **Location:** University of Vavuniya
+- **Background:** BICT UG Student
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I make a new playlist every month
+- **Date Added:** July 13, 2026
+
 
