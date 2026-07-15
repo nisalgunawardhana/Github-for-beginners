@@ -19,7 +19,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ### Dulina
 - **GitHub Username:** @Dulinasathnim6
 - **Location:** Colombo
-- **Background:** Student
+- **Background:** Student in the university
 - **Learning Goals:** Master Git workflows and collaborative development
 - **Fun Fact:** Example
 - **Date Added:** July 16, 2026 
