@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Thanuja Virochana 
+- **GitHub Username:** @thanujawirochana-sys
+- **Location:** chilaw
+- **Background:** BICT (Hons) Undergraduate | Faculty of Technology | University of Vavuniya
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I enjoy playing chess to sharpen my strategic thinking and love singing to relax and recharge.
+- **Date Added:** July 16, 2026
 
