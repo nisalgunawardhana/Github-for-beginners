@@ -20,7 +20,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **GitHub Username:** @SahanWickramasingha
 - **Location:** Kandy
 - **Background:** Undergraguate
-- **Learning Goals:** Improve Skills
+- **Learning Goals:** Improve Skills related to github and git
 - **Fun Fact:** just now i want to sleep
 - **Date Added:** 18th of july 2026
 
