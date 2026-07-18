@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Hemantha Bandaranayake
+- **GitHub Username:** @H-Bandaranayake
+- **Location:** Kandy, Sri Lanka
+- **Background:** Information Technology student at OUSL learning git and GitHub
+- **Learning Goals:** Understand and learn about how version control works and how we can use git and Github for that
+- **Fun Fact:** Nothing really special about me
+- **Date Added:** 18th of July 2026
 
 
