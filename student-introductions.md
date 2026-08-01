@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** Colombo, Sri Lanka
 - **Background:** Data Science Undergraduate
 - **Learning Goals:** Master Git workflows and collaborative development
-- **Fun Fact:** _
+- **Fun Fact:** __
 - **Date Added:** August 1, 2026
 
 
