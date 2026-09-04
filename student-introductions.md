@@ -24,4 +24,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Bimsara Hettiarachchi
+- **GitHub Username:** @viduranga07
+- **Location:** Colombo,SL
+- **Background:** Computer Science student 
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:** September 4, 2026
 
