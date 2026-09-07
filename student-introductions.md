@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Isuru Aravinda
+- **GitHub Username:** @isuruaravinda2004
+- **Location:** Galle,Sri Lanka
+- **Background:** Software Engineer student
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I like building ideas into real projects.
+- **Date Added:** September 07, 2026
+
 
