@@ -11,6 +11,7 @@ We welcome several types of contributions:
 - Add new learning exercises
 - Create additional practice files
 - Add helpful code examples
+- hello
 
 ### 🐛 Bug Fixes
 - Fix typos and grammatical errors
