@@ -12,3 +12,7 @@ A collection of GitHub-related student opportunities, certification vouchers, an
 ---
 
 Have a new student opportunity to share? Feel free to open a pull request following the [contributing guidelines](../CONTRIBUTING.md).
+
+
+> ⚠️ **Disclaimer:** All details, offers, and information referenced in this repository (including in the [student-opportunities](student-opportunities/) section) are sourced from other official publications and providers.
+

@@ -15,8 +15,6 @@
 
 ---
 
-> 🤖 **Note:** Articles in languages other than English are translated with the help of AI. While we aim for accuracy, some wording may vary slightly. If you notice anything that could be improved, we'd love to hear your feedback.
-
 ---
 
 ## **Overview**
