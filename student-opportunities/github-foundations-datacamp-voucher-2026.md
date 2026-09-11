@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Student Developer Pack](../images/exam.png)
+![GitHub Student Developer Pack](../images/exam2.png)
 
 ## Earn a Free GitHub Foundations Certification Exam via DataCamp
 
