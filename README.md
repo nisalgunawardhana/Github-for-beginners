@@ -292,6 +292,6 @@ Follow me on social media for updates and more learning resources:
 Remember: Making mistakes is part of learning. Don't be afraid to experiment and try new things!
 
 
-## About Me
+## About Me - Mashiat
 
 Hi, I'm Mashiat. I'm practicing Git and GitHub workflows.
