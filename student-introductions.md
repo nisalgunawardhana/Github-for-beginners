@@ -14,14 +14,14 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ---
 
-<!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+
+### [isuru akalanka]
+- **GitHub Username:** @akalankaisuru
+- **Location:** Gampaha
+- **Background:** Software enginnering 
+- **Learning Goals:** Master Got workflow and web evelopment 
+- **Fun Fact:** Play ball 
+- **Date Added:** oct 14, 2026
 
 
