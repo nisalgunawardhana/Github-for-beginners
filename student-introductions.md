@@ -18,7 +18,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 ### [Your Name Here]
 - **GitHub Username:** @MaleeshaKaluthota
-- **Location:** rajarata university
+- **Location:** rajarata university of srilanka
 - **Background:** gce
 - **Learning Goals:** k&s
 - **Fun Fact:** dancing
