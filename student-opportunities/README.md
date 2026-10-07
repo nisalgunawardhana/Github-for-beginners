@@ -6,6 +6,7 @@ A collection of GitHub-related student opportunities, certification vouchers, an
 
 | Opportunity | Description | Last Updated |
 |-------------|--------------|--------------|
+| [Oracle Free Training & Certifications 2026](oracle-free-certifications-2026.md) | Learn cloud, AI, agentic AI and databases on Oracle MyLearn and earn free Foundations and OCI Architect Associate certifications. | October 7, 2026 |
 | [GitHub Foundations Certification Voucher through DataCamp](github-foundations-datacamp-voucher-2026.md) | Earn a 100% discount on the GitHub Foundations certification exam by completing the GitHub Foundations track on DataCamp. | September 11, 2026 |
 | [GitHub Certification Voucher (Foundations or Copilot) — 2025](github-certification-voucher-2025.md) | Request and redeem the GitHub certification voucher included directly in the Student Developer Pack, valid for the Foundations or Copilot exam. | October 8, 2025 |
 
