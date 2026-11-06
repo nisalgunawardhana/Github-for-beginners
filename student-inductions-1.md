@@ -6,4 +6,4 @@
 - Role: Data Engineer
 - Skills: Python, PySpark, SQL
 - Cloud: Azure
-- Big Data: Databricks, Spark
+- Big Data: Databricks, Spark data
