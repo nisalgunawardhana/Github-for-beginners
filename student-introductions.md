@@ -24,4 +24,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Fun Fact:** 
 - **Date Added:** 
 
+### Dilan Chathuranga
+- **GitHub Username:** @dilan-chathuranga
+- **Location:** Kuruwita
+- **Background:** BICT 
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:**  Play Bedminton
+- **Date Added:**  2026-11-11
+
 
